@@ -7,7 +7,8 @@ known issues:
 The wabbajack file itself is 5GB, this is very large, cant be avoided, due to parallaxgen output, it will take a long time to download when you select it in the gallery.
 
 current build of Community Shaders dosnt show the skyrim logo on bootup, youll just get a black screen until the main menu loads, this can take minutes
-it takes around 20 seconds after pressing new game for character creation to show, on my machine
+
+it also takes around 20 seconds after pressing new game for character creation to show, on my machine
 
 Community shaders can make areas show bright light and colors for a while after an area loads
 
