@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=120946
+fileID=593226
+url=
+name=PG Patcher
+description=Added \"Enable Diagnostics\" option to advanced options to help with user support.\n<br />Reduced file size of package by half\n<br />Other small additions (see changelog)
+modName=PG Patcher (aka ParallaxGen)
+version=0.8.9.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

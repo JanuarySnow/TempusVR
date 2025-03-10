@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=32382
+fileID=248226
+url=
+name=DynDOLOD
+description="<font size=\"3\">REQUIRED for all game versions - Contains tools and manual. Read <a href=\"https://stepmodifications.org/forum/topic/13894-dyndolod/\">Skyrim SE/VR</a> post for details and instructions</font>"
+modName=Dynamic Distant Objects LOD - DynDOLOD
+version=2.98.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

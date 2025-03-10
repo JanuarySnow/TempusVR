@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=42211
+fileID=169561
+url=
+name=R88_ESLify
+description=See description page for installation instructions.
+modName=Ruddy88 ESLify
+version=0.2.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

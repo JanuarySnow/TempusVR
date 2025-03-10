@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=28701
+fileID=105303
+url=
+name=Skyrim Skill Uncapper for VR Edition v1.01
+description=This mod is only compatible with the VR edition of Skyrim.    Requires SKSEVR to work.    Requires a DLL Loader of your choice (setup for xSHADOWMANx's DLL by default).  No Vortex or MO support yet though I plan to release a version with it sometime soon.
+modName=Skyrim Skill Uncapper for VR Edition
+version=f1.01
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=108
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=false

@@ -1,0 +1,5 @@
+FUS (Basic)
+FUS RO (Basic + Appearance)
+FUS DAH (Basic + Gameplay)
+FUS RO DAH (Basic + Appearance + Gameplay)
+CANGAR
