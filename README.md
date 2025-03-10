@@ -7,6 +7,10 @@ it takes around 20 seconds after pressing new game for character creation to sho
 
 Community shaders can make areas show bright light and colors for a while after an area loads
 
+Some distant lods for fallen tree logs are purple, cant work out why, not a huge priority for a testing build
+
+It boots, it dosnt crash anymore when travelling around and doing various things, beyond that ive not tested it much, I would like more testing and issues to be logged on this github
+
 optionals:
 
 Opencomposite is turned on by default
