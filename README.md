@@ -28,10 +28,10 @@ Dont ask Lively for help, ping me in livelys server - @januarysnow .
 
 general info for Tempus can be found here : https://github.com/LivelyDismay/tempus-maledictum 
 
+But quite a few things are changed
+
 Controls are the base VR essentials are from FUS : https://github.com/Kvitekvist/FUS/wiki/Controller-bindings-guide
 
 I use kvites bindings
-
-But quite a few things are changed
 
 This is an early testing build, please log issues on this repo
