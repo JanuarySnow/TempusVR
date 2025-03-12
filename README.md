@@ -1,9 +1,14 @@
 TESTING BUILD FOR TEMPUS MALEDICTUM VR
 
+THIS REQUIRES SKYRIM AE DLC JUST LIKE TEMPUS DOES, IT AUTOMATICALLY SOURCES FROM AE INSTALL ON YOUR PC AND CONVERTS IT FOR USE IN SKYRIMVR
+
 known issues:
 
+The wabbajack file itself is 5GB, this is very large, cant be avoided, due to parallaxgen output, it will take a long time to download when you select it in the gallery.
+
 current build of Community Shaders dosnt show the skyrim logo on bootup, youll just get a black screen until the main menu loads, this can take minutes
-it takes around 20 seconds after pressing new game for character creation to show, on my machine
+
+it also takes around 20 seconds after pressing new game for character creation to show, on my machine
 
 Community shaders can make areas show bright light and colors for a while after an area loads
 
@@ -26,10 +31,10 @@ Dont ask Lively for help, ping me in livelys server - @januarysnow .
 
 general info for Tempus can be found here : https://github.com/LivelyDismay/tempus-maledictum 
 
+But quite a few things are changed
+
 Controls are the base VR essentials are from FUS : https://github.com/Kvitekvist/FUS/wiki/Controller-bindings-guide
 
 I use kvites bindings
-
-But quite a few things are changed
 
 This is an early testing build, please log issues on this repo
