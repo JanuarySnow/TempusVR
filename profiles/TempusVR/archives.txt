@@ -17,24 +17,25 @@ Skyrim - Animations.bsa
 Skyrim - Shaders.bsa
 Skyrim - Misc.bsa
 Skyrim - Patch.bsa
+_ResourcePack.bsa
+cceejsse004-hall.bsa
 cceejsse005-cave.bsa
 ccffbsse001-imperialdragon.bsa
 ccffbsse002-crossbowpack.bsa
-ccfsvsse001-backpacks.bsa
 cckrtsse001_altar.bsa
 ccmtysse001-knightsofthenine.bsa
 ccmtysse002-ve.bsa
 ccpewsse002-armsofchaos.bsa
 ccqdrsse001-survivalmode.bsa
 ccqdrsse002-firewood.bsa
-_ResourcePack.bsa
 ccrmssse001-necrohouse.bsa
 cctwbsse001-puzzledungeon.bsa
-ccbgssse031-advcyrus.bsa
 ccvsvsse001-winter.bsa
 ccvsvsse002-pets.bsa
 ccvsvsse003-necroarts.bsa
+ccbgssse040-advobgobs.bsa
 ccvsvsse004-beafarmer.bsa
+ccbgssse052-ba_iron.bsa
 ccafdsse001-dwesanctuary.bsa
 ccasvsse001-almsivi.bsa
 ccbgssse001-fish.bsa
@@ -56,18 +57,18 @@ ccbgssse019-staffofsheogorath.bsa
 ccbgssse020-graycowl.bsa
 ccbgssse021-lordsmail.bsa
 ccbgssse025-advdsgs.bsa
+ccbgssse031-advcyrus.bsa
 ccbgssse034-mntuni.bsa
 ccbgssse035-petnhound.bsa
 ccbgssse036-petbwolf.bsa
 ccbgssse037-curios.bsa
 ccbgssse038-bowofshadows.bsa
-ccbgssse040-advobgobs.bsa
+ccfsvsse001-backpacks.bsa
 ccbgssse041-netchleather.bsa
 ccbgssse043-crosselv.bsa
 ccbgssse045-hasedoki.bsa
 ccbgssse050-ba_daedric.bsa
 ccbgssse051-ba_daedricmail.bsa
-ccbgssse052-ba_iron.bsa
 ccbgssse053-ba_leather.bsa
 ccbgssse054-ba_orcish.bsa
 ccbgssse055-ba_orcishscaled.bsa
@@ -91,7 +92,6 @@ ccedhsse003-redguard.bsa
 cceejsse001-hstead.bsa
 cceejsse002-tower.bsa
 cceejsse003-hollow.bsa
-cceejsse004-hall.bsa
 manny_Status.bsa
 AHZmoreHUD.bsa
 Swap Drop and Hold.bsa
@@ -99,35 +99,34 @@ Particle Patch for ENB.bsa
 Dismembering Framework.bsa
 DF - Official Humanoid Pack.bsa
 DF - Official Creature Pack.bsa
-Unofficial Skyrim Special Edition Patch - Textures.bsa
 Unofficial Skyrim Special Edition Patch.bsa
+Unofficial Skyrim Special Edition Patch - Textures.bsa
 unofficial skyrim creation club content patch.bsa
 Unofficial Skyrim Modders Patch.bsa
 Footprints.bsa
 QuestsAreInSkyrimUSSEP.bsa
 TimingIsEverything.bsa
 Trade & Barter.bsa
-UnreadBooksGlow.bsa
-Ordinator - Perks of Skyrim - Textures.bsa
 Ordinator - Perks of Skyrim.bsa
+Ordinator - Perks of Skyrim - Textures.bsa
 Andromeda - Unique Standing Stones of Skyrim - Textures.bsa
 Andromeda - Unique Standing Stones of Skyrim.bsa
-Apocalypse - Magic of Skyrim - Textures.bsa
 Apocalypse - Magic of Skyrim.bsa
+Apocalypse - Magic of Skyrim - Textures.bsa
 Apocalypse - Ordinator Compatibility Patch.bsa
-Imperious - Races of Skyrim - Textures.bsa
 Imperious - Races of Skyrim.bsa
-Summermyst - Enchantments of Skyrim - Textures.bsa
+Imperious - Races of Skyrim - Textures.bsa
 Summermyst - Enchantments of Skyrim.bsa
+Summermyst - Enchantments of Skyrim - Textures.bsa
 Thunderchild - Epic Shout Package.bsa
 Thunderchild - Epic Shout Package - Textures.bsa
 Growl - Werebeasts of Skyrim.bsa
 Odin - Skyrim Magic Overhaul.bsa
 Odin - Skyrim Magic Overhaul - Textures.bsa
-Triumvirate - Mage Archetypes.bsa
 Triumvirate - Mage Archetypes - Textures.bsa
-Sacrosanct - Vampires of Skyrim - Textures.bsa
+Triumvirate - Mage Archetypes.bsa
 Sacrosanct - Vampires of Skyrim.bsa
+Sacrosanct - Vampires of Skyrim - Textures.bsa
 VampireFeedImproved.bsa
 Finding_Derkeethus.bsa
 Finding_Helgi_and_Laelette.bsa
@@ -156,8 +155,8 @@ Indigo.bsa
 Bring Meeko to Lod.bsa
 Fine-Tuned Challenge.bsa
 More Plantable Plants for Creation Club - Rare Curios.bsa
-More Plantable Plants for Creation Club - Bittercup.bsa
 More Plantable Plants for Creation Club - Rare Curios - Textures.bsa
+More Plantable Plants for Creation Club - Bittercup.bsa
 More Plantable Plants for Creation Club - The Cause.bsa
 More Plantable Plants for Creation Club - Saints and Seducers.bsa
 HearthfireMultiKid.bsa
@@ -170,36 +169,36 @@ Headhunter - Bounties Redone.bsa
 Audio Overhaul Skyrim.bsa
 UHDAP - MusicHQ.bsa
 arnima.bsa
-BSAssets - Textures.bsa
 BSAssets.bsa
-BSHeartland - Textures.bsa
+BSAssets - Textures.bsa
 BSHeartland.bsa
+BSHeartland - Textures.bsa
 BS_DLC_patch.bsa
 RLGBrumaLanterns.bsa
-Haem Projects Goblands.bsa
 Haem Projects Goblands - Textures.bsa
+Haem Projects Goblands.bsa
 Glamoril.bsa
 Glamoril - Textures.bsa
 Glenmoril.bsa
-Identity Crisis - Textures.bsa
 Identity Crisis.bsa
+Identity Crisis - Textures.bsa
 Dwarfsphere.bsa
 Dwarfsphere - Textures.bsa
 Project AHO - Saving the Oryses Tweaks.bsa
-Skyrim Extended Cut - Saints and Seducers.bsa
 Skyrim Extended Cut - Saints and Seducers - Textures.bsa
+Skyrim Extended Cut - Saints and Seducers.bsa
 forgottencity - textures.bsa
 forgottencity.bsa
-MzarkWonders.bsa
 MzarkWonders - Textures.bsa
-evgSIRENROOT - Textures.bsa
+MzarkWonders.bsa
 evgSIRENROOT.bsa
-The Tale of Tsatampra Xiros.bsa
+evgSIRENROOT - Textures.bsa
 The Tale of Tsatampra Xiros - Textures.bsa
-WheelsOfLull.bsa
+The Tale of Tsatampra Xiros.bsa
 WheelsOfLull - Textures.bsa
-Undeath.bsa
+WheelsOfLull.bsa
 Undeath - Textures.bsa
+Undeath.bsa
 UndeathFixes.bsa
 DwarfsphereImprovedPatch.bsa
 Unslaad.bsa
@@ -211,18 +210,17 @@ Wyrmstooth - Textures.bsa
 Wyrmstooth.bsa
 MorthalBarrow.bsa
 Fortune's Trade House.bsa
-Darkstorm - Textures.bsa
 Darkstorm.bsa
+Darkstorm - Textures.bsa
 DeadlySpellImpacts - Textures.bsa
-FEC - Textures.bsa
 FEC.bsa
+FEC - Textures.bsa
 StormCalling.bsa
-The Dark Arts - Textures.bsa
 The Dark Arts.bsa
-Spellforge.bsa
+The Dark Arts - Textures.bsa
 Spellforge - Textures.bsa
+Spellforge.bsa
 ElementalDashes.bsa
-RaceMenu.bsa
 HornsAreForever.bsa
 High Poly Head.bsa
 Guard Dialogue Overhaul.bsa
@@ -230,23 +228,23 @@ RSChildren.bsa
 RSChildren - Textures.bsa
 Relationship Dialogue Overhaul.bsa
 LegacyoftheDragonborn0.bsa
-LegacyoftheDragonborn0 - Textures.bsa
-LegacyoftheDragonborn.bsa
 LegacyoftheDragonborn - Textures.bsa
-DBM_TeldrynSerious_Patch.bsa
+LegacyoftheDragonborn.bsa
+LegacyoftheDragonborn0 - Textures.bsa
+DBM_BGCollectables_Patch.bsa
+DBM_TeldrynSerious_Patch - Textures.bsa
+DBM_GuardsArmorReplacer_Patch.bsa
 DBM_Vigilant_Patch.bsa
 DBM_WheelsofLull_Patch - Textures.bsa
 DBM_WheelsofLull_Patch.bsa
-DBM_TOK_Patch.bsa
-DBM_AetheriumWeapons_Patch.bsa
-DBM_BGCollectables_Patch.bsa
-DBM_CloaksofSkyrim_Patch.bsa
-DBM_ForgottenCity_Patch.bsa
-DBM_GuardsArmorReplacer_Patch.bsa
 DBM_RSChildren_Patch.bsa
-DBM_TeldrynSerious_Patch - Textures.bsa
-DBM_RelicNotifications - Textures.bsa
+DBM_ForgottenCity_Patch.bsa
+DBM_AetheriumWeapons_Patch.bsa
+DBM_CloaksofSkyrim_Patch.bsa
+DBM_TOK_Patch.bsa
+DBM_TeldrynSerious_Patch.bsa
 DBM_RelicNotifications.bsa
+DBM_RelicNotifications - Textures.bsa
 BGCollectables - Textures.bsa
 BGCollectables.bsa
 SkyrimsUniqueTreasures - Textures.bsa
@@ -261,27 +259,27 @@ AVExpansion.bsa
 IceBladeOfTheMonarch.bsa
 ArtifactsOfBoethiah.bsa
 Artificer - Artifacts of Skyrim.bsa
-Awesome Artifacts.bsa
 Awesome Artifacts - Textures.bsa
-Dr_Bandolier - Textures.bsa
+Awesome Artifacts.bsa
 Dr_Bandolier.bsa
+Dr_Bandolier - Textures.bsa
 DawnguardArsenal.bsa
 Hothtrooper44_Armor_Ecksstra.bsa
 Hothtrooper44_ArmorCompilation.bsa
-WZOblivionArtifacts - Textures.bsa
 WZOblivionArtifacts.bsa
+WZOblivionArtifacts - Textures.bsa
 PrvtIRoyalArmory.bsa
 SkyrimSpearMechanic.bsa
-Skyrim Weapons Expansion.bsa
 Skyrim Weapons Expansion - Textures.bsa
+Skyrim Weapons Expansion.bsa
 imp_helm_legend.bsa
 Tools of Kagrenac.bsa
 Tools of Kagrenac - Textures.bsa
 DBM_NewArmoury.bsa
 PrvtI_HeavyArmory.bsa
 AVExpansion_ICFH Add-on.bsa
-Castle Volkihar Rebuilt - Textures.bsa
 Castle Volkihar Rebuilt.bsa
+Castle Volkihar Rebuilt - Textures.bsa
 ElysiumEstate.bsa
 HoldBorderBanners.bsa
 AHZBetterDGEntranceSE.bsa
@@ -290,72 +288,72 @@ Point The Way - Textures.bsa
 DovahDenDBM.bsa
 VlindrelHallRemade.bsa
 Solstheim - Lost Levels.bsa
-Nightgate Inn Revived - Textures.bsa
 Nightgate Inn Revived.bsa
-ogUderfrykte - Textures.bsa
+Nightgate Inn Revived - Textures.bsa
 ogUderfrykte.bsa
+ogUderfrykte - Textures.bsa
 ogEmperorCrab.bsa
 ogBogmort.bsa
 ogBogmort - Textures.bsa
 ogCannibalDraugr - Textures.bsa
 ogCannibalDraugr.bsa
-BloodHorkers.bsa
 BloodHorkers - Textures.bsa
-GrahlsOnSolstheim.bsa
+BloodHorkers.bsa
 GrahlsOnSolstheim - Textures.bsa
-Cliffracers_Solstheim_SSE - Textures.bsa
+GrahlsOnSolstheim.bsa
 Cliffracers_Solstheim_SSE.bsa
+Cliffracers_Solstheim_SSE - Textures.bsa
 Haugbui.bsa
 Haugbui - Textures.bsa
 Haugbui - Cannibal Draugr Patch.bsa
-Haugbui - CC Fishing Patch - Textures.bsa
 Haugbui - CC Fishing Patch.bsa
+Haugbui - CC Fishing Patch - Textures.bsa
 Haugbui - DBM Patch.bsa
 DiverseDragonsCollectionSE.bsa
 DiverseDragonsCollectionSE - Textures.bsa
 Serio's Enhanced Dragons Redone.bsa
 Rainbows Remade.bsa
-ShootingStars.bsa
 ShootingStars - Textures.bsa
+ShootingStars.bsa
 WoW Dragon Mounds CTD Fix.bsa
 Distinct Interiors.bsa
 Gildergreen Regrown.bsa
-Riften Docks Overhaul.bsa
 Riften Docks Overhaul - Textures.bsa
+Riften Docks Overhaul.bsa
 RedBag's Solitude.bsa
-COTN - Winterhold.bsa
 COTN - Winterhold - Textures.bsa
+COTN - Winterhold.bsa
 OCW_Obscure's_CollegeofWinterhold.bsa
 OCW_Obscure's_CollegeofWinterhold - Textures.bsa
-MCWT_GovernableGatekeeper.bsa
-MCWT_ExpiditeTheExpirate.bsa
-MCWT_DeadDunmerDelivery.bsa
 MCWT_ACollegeCoup.bsa
 MCWT_ACollegeCoup_OCW.bsa
 MCWT_ArnielsAppeals.bsa
+MCWT_DeadDunmerDelivery.bsa
+MCWT_ExpiditeTheExpirate.bsa
+MCWT_GovernableGatekeeper.bsa
 BA_Bibliophile's_Arcanaeum.bsa
 OCW_CWI Exterior Magelights.bsa
 CYA_ChooseYourOwnArchMage.bsa
-COTN - Dawnstar.bsa
 COTN - Dawnstar - Textures.bsa
-COTN Addon - Anga's Mill.bsa
+COTN - Dawnstar.bsa
 COTN Addon - Anga's Mill - Textures.bsa
+COTN Addon - Anga's Mill.bsa
 COTN - Falkreath - Textures.bsa
 COTN - Falkreath.bsa
-COTN - Morthal.bsa
 COTN - Morthal - Textures.bsa
+COTN - Morthal.bsa
 Lux Via - Markarth Entrance and Farm Overhaul.bsa
 Stonehills.bsa
-Palaces Castles Enhanced.bsa
 Palaces Castles Enhanced - Textures.bsa
-DBDawnstar Sanctuary SSE.bsa
+Palaces Castles Enhanced.bsa
 DBDawnstar Sanctuary SSE - Textures.bsa
+DBDawnstar Sanctuary SSE.bsa
 dD - Enhanced Blood Main.bsa
-DwemerSpectresLegendary - Textures.bsa
 DwemerSpectresLegendary.bsa
+DwemerSpectresLegendary - Textures.bsa
 DynamicAnimalVariantsPlus.bsa
-RealRabbitsHD - Textures.bsa
 RealRabbitsHD.bsa
+RealRabbitsHD - Textures.bsa
 DiverseWerewolvesCollection.bsa
 DiverseWerewolvesCollection - Textures.bsa
 Prometheus_BeastSkeletons.bsa
@@ -367,17 +365,20 @@ Bandit War.bsa
 Madmen.bsa
 AdditionalCreationClubBaskets - Textures.bsa
 Lux Via - Markarth Entrance and Farm Overhaul - Textures.bsa
-NPC Appearances Merged0.bsa
+NPC Appearances Merged - Textures.bsa
 NPC Appearances Merged.bsa
 NPC Appearances Merged - Textures0.bsa
-NPC Appearances Merged - Textures.bsa
+NPC Appearances Merged0.bsa
 FPSBoost.bsa
 AHZmoreHUDInventory.bsa
 PullMastry.bsa
-Lanterns Of Skyrim II - Textures.bsa
 Lanterns OF Skyrim II.bsa
+Lanterns Of Skyrim II - Textures.bsa
 DBM_CC_HallOfWonders.bsa
 HonedMetal.bsa
-Skoglendi - A Grass Mod - Textures.bsa
 Skoglendi - A Grass Mod.bsa
+Skoglendi - A Grass Mod - Textures.bsa
 Next-Gen Decapitations.bsa
+Alternate Start - Live Another Life - Textures.bsa
+Alternate Start - Live Another Life.bsa
+DBM_RelicHunter.bsa
