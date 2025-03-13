@@ -1,0 +1,19 @@
+[General]
+gameName=Skyrim
+modID=111991
+fileID=1000377409
+url=
+name=DynDOLOD 3.00
+description="<a href=\"https://dyndolod.info\">DynDOLOD website for detailed information, explanations and instructions.</a>\n<br />\n<br /><a href=\"https://stepmodifications.org/forum/forum/223-dyndolod\">Official DynDOLOD support forum for feedback, qualified help and support.</a>"
+modName=DynDOLOD 3 Alpha
+version=Alpha-190
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

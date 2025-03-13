@@ -1507,6 +1507,7 @@
 *Ordinator - Replace Attack Speed.esp
 *Ordinator - VR Patch.esp
 *VR Block Runner.esp
+*Occ_Skyrim_RynsWhiterunCityLimits_patch.esp
 *NoSneakFeedOnFollowers.esp
 *Deep_Elf_Race_SCS_Patch.esp
 *Liv_Sacrosanct_CoverYourHead_RegenFix_Patch.esp
@@ -1749,7 +1750,7 @@
 *PG_1.esp
 *DynDOLOD.esp
 *Occlusion.esp
-*Synthesis.esp
-*synthesis_one.esp
-*synthesis_three.esp
 *synthesis_two.esp
+*synthesis_three.esp
+*synthesis_one.esp
+*Synthesis.esp
