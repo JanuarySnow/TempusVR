@@ -2,6 +2,10 @@ TESTING BUILD FOR TEMPUS MALEDICTUM VR
 
 THIS REQUIRES SKYRIM AE DLC JUST LIKE TEMPUS DOES, IT AUTOMATICALLY SOURCES FROM AE INSTALL ON YOUR PC AND CONVERTS IT FOR USE IN SKYRIMVR
 
+install the modlist, open the modlist install folder, run modorganizer.exe
+
+Click "PLAY Tempus VR" at the top of Mo2 to launch the game
+
 known issues:
 
 The wabbajack file itself is 5GB, this is very large, cant be avoided, due to parallaxgen output, it will take a long time to download when you select it in the gallery.
