@@ -63,15 +63,12 @@ Based on both internal performance testing and user feedback, the section below 
 >- An SSD is **required** to the play the modlist.
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations also **WILL NOT WORK**.
 
-<Details>
 
 I have a 4070ti gpu and a 13700k CPU, I run Virtual Desktop Medium resolution, using SSW at 90 fps, on a Quest 2, and the framerate is steady at those settings
 There is an optional mod in the list "VRAMR output" which downscales a lot of the textures, I enable this on my system to reduce stutters, if you have a 4090 or better you may disable it, 
 If you have a 4090 or better you may also consider disabling SSW if you dont like it, you may get acceptable results.
 
 you may change the Community Shaders settings by pressing the HOME key ingame, you can increase or decrease the prettiness to your performance requirements that way.
-
-</Details>
 
 Downloads Size: ~256 GB  
 Install Size: ~367 GB  
