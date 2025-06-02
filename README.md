@@ -28,7 +28,7 @@
     - [Installing Creation Club Files](#installing-creation-club-files)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
-    - [Downloading and Installing Apostasy](#downloading-and-installing-TempusVR)
+    - [Downloading and Installing TempusVR](#downloading-and-installing-TempusVR)
   - [Problems with installation](#problems-with-installation)
 - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
   - [Antivirus Exceptions](#antivirus-exceptions)
@@ -344,20 +344,6 @@ I have recently got to level 40 in a playthrough without a *single* crash, I fin
 
 and then report it to me in the linked Discord in the #tempusvr-unofficial channel
 
-</Details>  
-
-<Details>
-<summary>Crashes When Loading Saves</summary>
-
-This issue is caused by Large Reference Workarounds done by [DynDOLOD NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720). Due to importance of the mod, it cannot be removed from the modlist.
-
-Follow the steps below for a temporary experimental fix to prevent these crashes:
-  1. Navigate to `[Your Apostasy Install Location}\profiles\Apostasy\SkyrimPrefs.ini`  
-  2. Change `uLargeRefLODGridSize =9` to `uLargeRefLODGridSize =5`  
-  3. Press `Ctrl+S` on your keyboard to save your changes
-
-This will reduce the quality of certain large objects at far away distances, however the difference is **very minor** and you will be unlikely to even notice it. Changing these settings may even improve performance.
-
 </Details>
 
 ## Actually Playing the Game
@@ -393,7 +379,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 # Removing the Modlist
 
-Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostasy.
+Simply delete the TempusVR folder. Congratulations, you have uninstalled TempusVR.
 
 # Issues
 -some interiors will probably still have some mismatched lighting and floating objects here and there, havnt gone to them all yet
