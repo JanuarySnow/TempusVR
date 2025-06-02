@@ -209,10 +209,9 @@ To install Tempus VR, complete the following steps.
  4. Set the `Modlist Installation Location` to a folder such as `C:\TempusVR`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Resource Download Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
- 5. Download the files from the [Missing Manual Downloads](#missing-manual-downloads) section and place them in your designated `Resource Download Location` folder.
- 6. Press the play arrow to begin.
- 7. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server]([https://discord.gg/4WwqfK5yHg](https://discord.gg/livelymods)) for support.
+ 5. Press the play arrow to begin.
+ 6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
+ 7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server]([https://discord.gg/4WwqfK5yHg](https://discord.gg/livelymods)) for support.
 
 ## Problems with installation
 
@@ -222,8 +221,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 <summary>I'm having trouble downloading Non-Nexus files or specific files!</summary>
 
 Big files can fail to download due to connection issues or website issues. You can either run Wabbajack again or download the missing file manually. If you decide to manually download the file, make sure to place the file(s) inside the folder you set as the `Resource Download Location`.
-
-This issue can also occur with files sources from Google Drive, MEGA, Patreon, and other sites. Missing Manual Downloads are listed [here](#missing-manual-downloads).
 
 </Details>
 
