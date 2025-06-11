@@ -141,7 +141,7 @@ But why is this? Skyrim appears to use system memory in very unexpected ways, fo
 - Right-click on your desktop and select `NVIDIA Control Panel`
 - Navigate and click `Manage 3D Settings`
 - Scroll down the **Global Settings** tab until you see **Shader Cache Size**
-- Double-click `Driver Default` to the right of **Shader Cache Size** and select `10 GB`
+- Double-click `Driver Default` to the right of **Shader Cache Size** and select at least `10 GB`
 - Click `Apply` in the bottom right hand corner
 - Exit out of the application
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
@@ -171,6 +171,13 @@ To change your Skyrim VR's language:
 
 ### Installing Creation Club Files
 Please ensure you have launched Skyrim AE from Steam once so you can download all the AE DLC
+
+- Launch Skyrim from Steam
+- Select Creations from the main menu
+- Select Options at the bottom
+- Select Download all owned Creation Club Creations
+- Exit the game
+DO NOT Alt+Tab; you must leave the game window active or the download will stop.
 
 >[!IMPORTANT]
 >
