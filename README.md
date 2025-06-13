@@ -364,6 +364,8 @@ and then report it to me in the linked Discord in the #tempusvr-unofficial chann
 
 Controls are the base VR essentials are from FUS : <https://github.com/Kvitekvist/FUS/wiki/Controller-bindings-guide>
 
+Remember that pullchains are physically interactive now : <https://www.nexusmods.com/skyrimspecialedition/mods/142338>
+
 I use kvites bindings
 
 # Updating the modlist
