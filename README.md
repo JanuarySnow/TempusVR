@@ -8,6 +8,10 @@
 
 >[!IMPORTANT]
 >Tempus Maledictum VR requires ALL Anniversary Edition DLC for Skyrim, in addition to SkyrimVR, and both to be installed on Steam.
+> DO NOT CHOOSE THE VANILLA START OPTION FROM ALTERNATE PERSPECTIVE, THE CART RIDE IS BUGGED TO HELL
+> To start the main quest with Alternate Perspective :
+> The Main Quest:
+To begin the Main Quest, you want to head to Helgen's Inn and talk to the Innkeeper. Upon doing so, you will find the normal Innkeeper Dialogue and one extra Option, reading "I'd like to rent a room. (Start Intro (10 gold))", using this option will first seem like a normal bed renting - and is in fact a normal bed renting - however, the next time you sleep in Helgen's Inn, something special is going to happen...
 
 >[!WARNING]
 >You must update Skyrim AE to the latest version (1.6.1170) on Steam to install this list.
