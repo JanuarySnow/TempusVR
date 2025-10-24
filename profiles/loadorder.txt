@@ -11,11 +11,14 @@ Distinct Interiors.esp
 Unofficial Skyrim Modders Patch.esp
 Obsidian Mountain Fogs.esp
 IcyFixes.esm
+Undeath.esp
 BetterDynamicAsh-DisableRefs.esm
+Solstheim - Lost Levels.esp
 AX ValSerano.esp
 AnimatedShips.esl
 Raven Rock Reborn.esp
 Praedys_Soulcairn.esm
+TSR_TeldrynSerious.esp
 arnima.esm
 RSkyrimChildren.esm
 Dwarfsphere.esp
@@ -27,8 +30,10 @@ BS_DLC_patch.esp
 NoBrokenWhiterunTower.esp
 Tools of Kagrenac.esp
 Better Dynamic Snow SE - DisableRefs.esm
+JSwordsD.esm
 Glenmoril.esm
 Vigilant.esm
+Darkend.esp
 WheelsOfLull.esp
 Lucien.esp
 Haem Projects Goblands.esp
@@ -38,6 +43,7 @@ MzarkWonders.esp
 evgSIRENROOT.esm
 NoMaskUnturned.esm
 Unslaad.esm
+Pullchain_VR.esp
 FISS.esp
 1NDArmor.esl
 Cathedral - 3D Mountain Flowers.esp
@@ -62,9 +68,9 @@ Natural Waterfalls - Dragonborn.esp
 HSResources.esl
 IceShaderDisabled.esl
 SSE-Terrain-Tamriel-Extend.esm
+Occ_Skyrim_Tamriel.esp
 CallYourHorse.esl
 SkyPatcher Keyword Framework.esl
-DIAL.esp
 _ResourcePack.esl
 LegacyoftheDragonborn.esm
 ccafdsse001-dwesanctuary.esm
@@ -146,123 +152,73 @@ ccvsvsse003-necroarts.esl
 Creation EmpowermentESL.esl
 ccvsvsse004-beafarmer.esl
 unofficial skyrim creation club content patch.esl
-Skyrim Landscape and Water Fixes - Light Sources.esp
-Obsidian Mountain Fogs.esm
+Occ_Skyrim_AnnEdition.esp
 Water for ENB.esm
-Lux Orbis - Master plugin.esm
+Skyrim Landscape and Water Fixes - Light Sources.esp
+Lux - Master plugin.esm
 Lux - Resources.esp
 Lux Via.esp
-IceLODFull.esl
-IMRPatchForVanillaAndBDS.esl
-Partitioned snow Meshes.esl
-RU_CityTreesSE.esm
-RU_CityTreesSE_Apiaries.esl
-RU_CityTreesSE_BrandyMugFarm.esl
-RU_CityTreesSE_Chillfurrow.esl
-RU_CityTreesSE_Dawnstar.esl
-RU_CityTreesSE_DragonBridge.esl
-RU_CityTreesSE_DragonBridge_Addon6.esl
-RU_CityTreesSE_Falkreath.esl
-RU_CityTreesSE_HeljarchenHall.esl
-RU_CityTreesSE_HollyFrostFarm.esl
-RU_CityTreesSE_Ivarstead.esl
-RU_CityTreesSE_Ivarstead_Addon6.esl
-RU_CityTreesSE_Karthwasten.esl
-RU_CityTreesSE_KatlasFarm.esl
-RU_CityTreesSE_Kynesgrove.esl
-RU_CityTreesSE_LakeviewManor.esl
-RU_CityTreesSE_LoreiusFarm.esl
-RU_CityTreesSE_Markarth.esl
-RU_CityTreesSE_Markarth_Addon6.esl
-RU_CityTreesSE_MerryfairFarm.esl
-RU_CityTreesSE_Morthal.esl
-RU_CityTreesSE_Pelagia.esl
-RU_CityTreesSE_RavenRock.esl
-RU_CityTreesSE_Riften.esl
-RU_CityTreesSE_Riften_Addon6.esl
-RU_CityTreesSE_RiftenStables.esl
-RU_CityTreesSE_Riverwood.esl
-RU_CityTreesSE_Riverwood_Addon6.esl
-RU_CityTreesSE_RoriksteadRB.esl
-RU_CityTreesSE_SalviusFarm.esl
-RU_CityTreesSE_SarethiFarm.esl
-RU_CityTreesSE_SkaalVillage.esl
-RU_CityTreesSE_SnowShodFarm.esl
-RU_CityTreesSE_Solitude.esl
-RU_CityTreesSE_Solitude_Addon6.esl
-RU_CityTreesSE_SolitudeLumberMill.esl
-RU_CityTreesSE_TheGoldenHare.esm
-RU_CityTreesSE_Whiterun.esl
-RU_CityTreesSE_Whiterun_Addon6.esl
-RU_CityTreesSE_WhiterunLanterns.esl
-RU_CityTreesSE_WhiterunOutskirt.esl
-RU_CityTreesSE_WhiterunStables.esl
-RU_CityTreesSE_Windhelm.esl
-RU_CityTreesSE_WindhelmStables.esl
-RU_CityTreesSE_WindstadManor.esl
-RU_CityTreesSE_Rorikstead_Addon6.esl
-DynDOLOD.esm
-ATLM.esp
+Lux Orbis - Master plugin.esm
 wraithguardvaultfixer.esp
-ATLM - Level.esp
+DynDOLOD.esm
+True Light.esm
+Obsidian Mountain Fogs.esm
+DIAL.esp
+Vanaheimr Mountains PBR.esp
 Summermyst - Enchantments of Skyrim.esp
-TSR_TeldrynSerious.esp
-Undeath.esp
+PullMastry.esp
+Immersive Sounds - Compendium.esp
+LegacyoftheDragonborn0.esp
+COTN - Falkreath.esp
+COTN - Dawnstar.esp
+OCW_Obscure's_CollegeofWinterhold.esp
 Resources - The Great Cities.esp
 The Great City of Winterhold v4.esp
+COTN - Morthal.esp
 COTN - Winterhold.esp
 TGCotN Winterhold.esp
+ReimperializedDarklightTower2.esp
 The Great Town of Ivarstead.esp
+HearthfireMultiKid.esp
 The Great Town of Karthwasten.esp
 The Great Town of Shor's Stone.esp
-HearthfireMultiKid.esp
+Improved Adoptions MERGED.esp
 The Great Village of Kynesgrove.esp
 yumcheese.esp
+Embers XD.esp
 The Great Village of Old Hroldan.esp
+Nightgate Inn Revived.esp
+RedBag's Solitude.esp
 WindhelmEntranceOverhaul.esp
 Stonehills.esp
+Distinct Interiors - Performance Fix.esp
 hearthfireextended.esp
-COTN - Falkreath.esp
+HFE-CC Fishing Patch.esp
+Distinct COTN Interiors - Falkreath.esp
+DBDawnstar Sanctuary SSE.esp
 Themarshlands.esp
+RedBag's Rorikstead.esp
 Strongholds - Narzulbur.esp
 Ryn's Standing Stones.esp
 The Great Village of Mixwater Mill.esp
+COTN Addon - Anga's Mill.esp
+DwarfsphereImprovedPatch.esp
+DwemerGatesNoRelock.esp
+Madmen.esp
+Draugr Upgrades and Improvements.esp
 TrueArtifactsofSkyrim.esp
+DBM_ISC_Patch.esp
 Strongholds - Largashbur.esp
 TGC Winterhold - Distinct Interiors Patch.esp
 Strongholds - Dushnikh Yal.esp
 Strongholds - Mor Khazgur.esp
-Better Dynamic Snow SE.esp
-COTN - Dawnstar.esp
-COTN - Morthal.esp
-COTN Addon - Anga's Mill.esp
-Darkend.esp
-DBDawnstar Sanctuary SSE.esp
-Immersive Sounds - Compendium.esp
-DBM_ISC_Patch.esp
-Distinct COTN Interiors - Falkreath.esp
-Distinct Interiors - Performance Fix.esp
-Draugr Upgrades and Improvements.esp
-DwarfsphereImprovedPatch.esp
-DwemerGatesNoRelock.esp
-Embers XD.esp
-HFE-CC Fishing Patch.esp
-Improved Adoptions MERGED.esp
-LegacyoftheDragonborn0.esp
-Madmen.esp
-Nightgate Inn Revived.esp
-OCW_Obscure's_CollegeofWinterhold.esp
-Pullchain_VR.esp
-PullMastry.esp
-RedBag's Rorikstead.esp
-RedBag's Solitude.esp
-ReimperializedDarklightTower2.esp
 Khajiit Has Tents.esp
 Nordic Ruins of Skyrim.esp
 DBM_TOK_Patch.esp
 DBM_CC_SunderWraithguardToKPatch.esp
 OCW Miscellaneous Loot Rebalance.esp
 NewArmoury.esp
+ogCannibalDraugr.esp
 UndeathFixes.esp
 Skyrim On Skooma.esp
 Darkwater Crossing - TGC Addon.esp
@@ -278,8 +234,10 @@ Awesome Artifacts.esp
 Bandit War.esp
 Bandit War - Expanded Enemy Coverage.esp
 BeSeated_3.0.0.esp
+Better Dynamic Snow SE.esp
 BPUFXelzazFollower.esp
 Castle Volkihar Rebuilt.esp
+CC Farming - Tweaks and Enhancements.esp
 OCW_LotD_FEPatch.esp
 SMIM-SE-Merged-All.esp
 Race Compatibility Dialogue SSE.esp
@@ -287,6 +245,7 @@ SkyrimsUniqueTreasures.esp
 Finding_Helgi_and_Laelette.esp
 Guard Dialogue Overhaul.esp
 FloatingSwordFollower.esp
+AretinoHome.esp
 Kolskeggr Mine - TGC Addon.esp
 Run For Your Lives.esp
 CollegeEntry.esp
@@ -327,6 +286,7 @@ BGCollectables.esp
 cs_fishingnet.esp
 Snazzy Skyrims Unique Treasures.esp
 cs_fn_world.esp
+RLGBrumaLanterns.esp
 mihailicetitansandseagiants.esp
 COTN Falkreath - Landscape and Water Fixes Patch.esp
 Identity Crisis.esp
@@ -335,6 +295,7 @@ DBM_AHO_Patch.esp
 018Auri.esp
 COTN Falkreath - Embers XD Patch.esp
 bc036's Tweaks.esp
+Cloaks&Capes.esp
 DawnguardArsenal.esp
 Footprints.esp
 FootprintsSand-patch.esp
@@ -353,12 +314,14 @@ Orpheus.esp
 ScopedBows.esp
 Better Dynamic Ash.esp
 Mesh Improvement Compilation.esp
+BloodHorkers.esp
 DBM_CC_GhostsoftheTribunalHOWPatch.esp
 DBM_CC_TheCausePatch.esp
 Fortune's Trade House.esp
 WoW Dragon Mounds CTD Fix.esp
 DiverseWerewolvesCollection.esp
 mihaildmgskel_.esp
+Skoglendi - A Grass Mod.esp
 The Heart Of Dibella - Quest Expansion.esp
 Finding_Derkeethus.esp
 Landscape and Water Fixes - Patch - Tundra Homested.esp
@@ -376,8 +339,10 @@ DBM_TAS_Patch.esp
 JS Unique Utopia SE - Rings - Johnskyrim.esp
 DBM_JSRings_Patch.esp
 DBM_CC_TheContestPatch.esp
+ElysiumEstate.esp
 TheOnlyCureQuestExpansion.esp
 Destroy the Dark Brotherhood - Quest Expansion.esp
+DovahDenDBM.esp
 COTN Dawnstar - Embers XD Patch.esp
 AdditionalHearthfireDolls.esp
 PrvtIRoyalArmory.esp
@@ -391,6 +356,7 @@ DBM_CC_DuskDawnHOWPatch.esp
 Triumvirate - Mage Archetypes.esp
 VR Refit - Mine Chop and Drop.esp
 mihailhiveguardians.esp
+GrahlsOnSolstheim.esp
 Hothtrooper44_ArmorCompilation.esp
 Headhunter - Bounties Redone.esp
 IA710 Strongholds - Narzulbur CR Patch.esp
@@ -406,8 +372,9 @@ mihailhawkandtern.esp
 RSChildren.esp
 Great Village of Kynesgrove - RS Children Patch.esp
 Great Village of Kynesgrove - Landscape and Water Fixes Patch.esp
-COTN Dawnstar - Legacy of the Dragonborn patch.esp
+COTN Dawnstar - Legacy of the Dragonborn Patch.esp
 DBM_Undeath_Patch.esp
+Elysium Estate_CaretakerRemoval.esp
 mihailmammothbaby.esp
 mihailseaturtle.esp
 Great Town of Karthwasten - USSEP Patch.esp
@@ -454,6 +421,7 @@ DBM_AetheriumWeapons_Patch.esp
 Bandit War - Wyrmstooth.esp
 DBM_Wyrmstooth_Patch.esp
 DBM_RoyalArmory_Patch.esp
+DBM_JaysusSwords_Patch.esp
 ExpressiveRemielPatch.esp
 Remi Improved Dialogue.esp
 HLIIRemiLOTD.esp
@@ -498,6 +466,7 @@ COTN Dawnstar - Cheesemod Patch.esp
 Waking Nightmare.esp
 OCW - CheeseMod.esp
 DBM_Remiel_Patch.esp
+floating stuff and water fixes.esp
 ArtifactsOfBoethiah.esp
 TotTB Artifacts of Boethiah - Creation Club Patch.esp
 DBM_ArtifactsofBoethiah_Patch.esp
@@ -519,6 +488,7 @@ RTDocks - Shadowfoot.esp
 TGV Darkwater Crossing - Landscape and Grass Patch.esp
 USMP - LOTD patch.esp
 WT_TGC Ivarstead_Skooma.esp
+CFTO-CoveredCarriages.esp
 Defeat the Dragon Cult.esp
 Project AHO - Saving the Oryses Tweaks.esp
 TGC Winterhold - Undeath Patch.esp
@@ -540,6 +510,7 @@ Great Village of Kynesgrove - SUT Patch.esp
 Ryn's Standing Stones - Landscape and Water Fixes Patch.esp
 Liv_SavetheIcerunner_USSEP_Patch.esp
 Liv_TSR_TeldrynSerious_USSEP_Patch.esp
+Buyable Home Patch - Elysium Estate.esp
 Experience Quests Tweak.esp
 BlessingsOfNatureReward.esp
 Haugbui - CC Fishing Patch.esp
@@ -578,6 +549,7 @@ COTN Falkreath - Amulets of Skyrim Patch.esp
 COTN Falkreath - CC - Fishing Patch.esp
 COTN Falkreath Addons.esp
 Cities of the North - Falkreath - G.I.R.T.H. Patch.esp
+Liv_BloodHorkers_TeldrynSerious_Patch.esp
 COTN Falkreath - Mystic Condenser Patch.esp
 OCW_MC_FEPatch.esp
 USSEP Patch for RedBag's Solitude.esp
@@ -587,6 +559,7 @@ Great Town of Shors Stone - Cheesemod Patch.esp
 Great Town of Shor's Stone - SUT Patch.esp
 Great Town of Shor's Stone - USSEP Patch.esp
 AUTOMATON_GLOW.esp
+WT_Landscape_Fixes.esp
 MCWT_DeadDunmerDelivery.esp
 MCWT_ACollegeCoup.esp
 DBM_CC_FarmingPatch.esp
@@ -597,6 +570,7 @@ My Home Is Your Home.esp
 ogEmperorCrab.esp
 RedBag's Rorikstead - Hearthfire Patch.esp
 cs_fn_RiftenDocks_patch.esp
+RTDocks - CFTO.esp
 TasteOfDeath_Addon_Dialogue.esp
 TGC Winterhold - CFTO Lanterns patch.esp
 Unslaad - Delayed Start.esp
@@ -637,6 +611,7 @@ ForgottenMagic_Redone.esp
 BS Bruma Patch.esp
 ProjectAHO - StartWhenYouWant.esp
 RTDocks - Song of the Green.esp
+TGC Winterhold - CFTO Covered Carriages patch.esp
 Great Town of Karthwasten - Redguard Elite Armaments Patch.esp
 Great Town of Shor's Stone - Redguard Elite Armaments Patch.esp
 Undeath Door Patch.esp
@@ -671,6 +646,7 @@ GIST soul trap.esp
 Nightgate Inn Revived - Cheesemod.esp
 Nightgate Inn Revived - Legacy of the Dragonborn.esp
 DBM_Xelzaz_Patch.esp
+RedBag's Solitude - Invisible Collision.esp
 dD-No Spinning Death Animation Merged.esp
 creatures_resized.esp
 BoundDaggerCollisionFix.esp
@@ -750,8 +726,8 @@ Beyond Skyrim - Bruma - Guard Cloaks.esp
 Beyond Skyrim - Bruma - Growable Plants Patch.esp
 CarriageAndStableDialogues.esp
 mihailpossesseddaedricarmors.esp
+NoGrassias.esp
 CBBE.esp
-CC Farming - Tweaks and Enhancements.esp
 CC Farming - RSChildren.esp
 CC Horse Armor - No Blacksmith Dialogue.esp
 CC_BowOfShadows [Whiterun Thane Required].esp
@@ -788,6 +764,7 @@ COTN Morthal - Additional Hearthfire Dolls Patch.esp
 COTN Morthal - BGCollectables Patch.esp
 CRH_USSEP Patch.esp
 CrimsonNirnrootBosses.esp
+CS_Auri.esp
 CYA_ChooseYourOwnArchMage.esp
 DA02Reject.esp
 DarkElfVoicesForBandits.esp
@@ -844,10 +821,14 @@ DragonPriestArmor.esp
 DragonPriestArmor_ICH_Patch.esp
 DBM_Armory of the Dragon Cult.esp
 DragonPriestArmorWyrmstooth.esp
+DragonsFallDown.esp
 Durnehviir God of Death.esp
 DragonsUseThuum - Serio's Enhanced Dragons Redone Patch.esp
 DragonsUseThuum - Diverse Dragons Patch.esp
 Dumzbthar  Room markers.esp
+DurnehviirResurrected.esp
+DurnehviirResurrected-Normal_GodOfDeath_patch.esp.esp
+DragonsUseThuum - Durnehviir Resurrected Patch.esp
 DVA - Dynamic Vampire Appearance.esp
 Dynamic Activation Key.esp
 sm_decoratingmadness.esp
@@ -872,16 +853,16 @@ Forsworn and Thalmor Lines Expansion.esp
 Gildergreen Is Really Thicc HD - Seasons.esp
 DBM_Glamoril_Patch.esp
 Glenmoril - Delayed Start.esp
+Elysium Estate - Guards Armor Patch.esp
 HarkonSwordRework.esp
 Harrald_TraintoSandbox.esp
 Hayds Warpaints.esp
 Headhunter - Leveled Rewards.esp
 HearthfireMultiKid_LastName.esp
+HFE-CFTO-Patch.esp
 SolitudeTempleFrescoes.esp
 RallysDisplayCases.esp
 IA710_LOTD_LaWF_Rock_Outside_the_Safehouse_Secret_Entrance_and_Floating_Canopy_Removal.esp
-GDOS - Glorious Solitude Door - Rotation Fix.esp
-GDOS - Splendid Mechanized Dwemer Door.esp
 Eli_SMIM-Hendraheim-Patch.esp
 Small Nordic Tent-Animated.esp
 Smoking Torches And Candles.esp
@@ -916,6 +897,7 @@ NPCs_Wear_Amulets_Of_Mara.esp
 Immersive Rejections.esp
 ImmersiveMiraakDifficulty.esp
 ImTalkinHere.esp
+Indigo.esp
 JS Badges of Office SE.esp
 KarstaagReborn.esp
 KatriaBow.esp
@@ -979,6 +961,7 @@ LOTD_TCC_HorseArmorSteel.esp
 LOTD_TCC_Horses.esp
 LOTD_TCC_IceBlade.esp
 LOTD_TCC_ImmArm.esp
+LOTD_TCC_Jaysus.esp
 LOTD_TCC_Kagrenac.esp
 LOTD_TCC_NecromanticGrimoire.esp
 LOTD_TCC_NetchLeatherArmor.esp
@@ -1038,6 +1021,7 @@ mihailtalkativewispmothers.esp
 Misc Tweaks - Better Ancient Knowledge Perk.esp
 Misc Tweaks - More Expensive Inns.esp
 Misc Tweaks - More Realistic Animal Loot.esp
+Liv_EasyNPC_USMP_Patch.esp
 Misc Tweaks - Outfit Tweaks.esp
 Missing in Action Delayed - Level & Quest Requirement.esp
 MoonsAndStars.esp
@@ -1046,9 +1030,11 @@ More Plantable Plants for Creation Club - Rare Curios.esp
 More Plantable Plants for Creation Club - Saints and Seducers.esp
 More Plantable Plants for Creation Club - The Cause.esp
 MyrwatchVaultFix - USCCCP Patch.esp
+DovahDenDBM_MC.esp
 DBM_MysticCondenser_Patch.esp
 Mythic Dawn Armor - SPID.esp
 NB-Scars.esp
+DawnguardArsenal-AnimatedArmoury-DawnguardWeapons_lvllist-patch.esp
 COTN Morthal - Animated Armory Patch.esp
 AnimatedArmouryUnslaadPatch.esp
 AnimatedArmouryGlenmorilPatch.esp
@@ -1075,11 +1061,16 @@ Obscure's College of Winterhold - CC - Exotic Arrows Patch.esp
 Obscure's College of Winterhold - CC - Wild Horses Patch.esp
 OCW_MCW Flying Books.esp
 OCW_AO_FEPatch.esp
+Cannibal Draugr Upgrades and Improvements Patch.esp
+Haugbui - Cannibal Draugr Patch.esp
 ogSplendorDragons.esp
 DragonsUseThuum - Splendor Dragon Variants Patch.esp
+ogUderfrykte.esp
+eeekie's Orpheus.esp
 pDetectLifeFF.esp
 Project AHO - General Item Tweaks.esp
 Project AHO - Smelter Patch.esp
+Prvti_HA_Fishing_DraugrWeapons.esp
 LOTD_TCC_HeavyArm.esp
 AnimatedHeavyArmoury.esp
 PrvtI_HeavyArmory_ExpandedCrossbowPack_Patch.esp
@@ -1100,19 +1091,22 @@ RaceMenuMorphsCBBE.esp
 Rainbows Remade.esp
 RDO - USSEP Patch.esp
 Realistic-Voice.esp
+RealisticRSChildren.esp
 Redbag's Rorikstead CC Silver Armor Patch.esp
-Missives.esp
 RedBag's Rorikstead - RS Children.esp
 Redbag's Rorikstead - Distinct Interiors.esp
 Redbag's Rorikstead - Fixes.esp
 RedBag's Rorikstead - Cloaks of Skyrim.esp
+RedBag's Solitude - RS Children patch.esp
 ReturnAegisbane.esp
 Rise of Wyrmstooth.esp
 RiseInTheEastImmersiveStart.esp
+RitualQuestMarkers.esp
 RSC Beyond Reach Patch.esp
 RSC Forgotten City Patch.esp
 RSC WT Patch.esp
 RSChildren - DBM Vendors.esp
+RSChildren Lore Friendly Heights.esp
 RTDocks - High Poly Head.esp
 RunicDawnguard.esp
 SaintsSeducersBugsEverywhere.esp
@@ -1124,10 +1118,16 @@ Sensible Oculory Solution - Logical Mzark Puzzle.esp
 SensibleBribes.esp
 ShalidorsInsightsAreInsightful.esp
 ShrineOfAzuraAtShrineOfAzura.esp
+IA710_HandyCraftingAndSpells.esp
 Simplicity of Seeding.esp
 Skyrim Extended Cut - Saints and Seducers Open Helmet Patch.esp
+Animated Armoury - Summermyst Enchanted.esp
+Skyrim Spear Mechanic - Summermyst Enchanted.esp
+AnimatedArmoury-SkyrimSpearMechanic-SummermystEnch-lvllistpatch.esp
 Skyrim Weapons Expansion.esp
 Skyrim Spear Mechanic Balance Tweaks.esp
+AnimatedArmoury-SkyrimSpearMechanic_lvllist-patch.esp
+AnimatedArmoury-SkyrimSpearMechanic-Blacksmith_lvllist-patch.esp
 RedBag's Rorikstead - Cheesemod.esp
 RedBag's Rorikstead - SUT.esp
 LOTD_TCC_SUT.esp
@@ -1215,6 +1215,7 @@ XPMSE.esp
 TGV Darkwater Crossing - Cheesemod Patch.esp
 Great Village of Kynesgrove - Cheesemod Patch.esp
 DBM_CC_SoS_CheeseSynergy.esp
+Spaghetti's Palaces - AIO.esp
 COTN Angas Mill Addon - Cheesemod Patch.esp
 FPSBoost.esp
 Infiltration QE - Bandit War Patch.esp
@@ -1286,7 +1287,6 @@ Owls_FootstepFix.esp
 Deep_Elf_Ordinator_Patch.esp
 Owls_Hearthfire_Mihailcow_Patch.esp
 Thief skills rebalance for Ordinator.esp
-RealisticRSChildren.esp
 Thunderchild - Epic Shout Package.esp
 Owls_OCF_Misc_Patch.esp
 Owls_USMP_SaintsSeducers_Patch.esp
@@ -1294,6 +1294,7 @@ Owls_ValSerano_VelehkSain_Patch.esp
 PraedysSkeletons.esp
 Project AHO - Immersion Patch.esp
 RealRabbitsHD.esp
+Restoring the Aretino Residence - Immersion Patch.esp
 SmoothJumpINISettings.esp
 Stoppage of Staggerlock.esp
 StormLightning.esp
@@ -1314,49 +1315,15 @@ SGT_Bruma_Patch.esp
 SGT - Auri Bard Addon.esp
 SGT - Xelzaz Bard Addon.esp
 BA_BardSongs_AIO.esp
-ICRFixes.esp
-NIBF_SkyPatcher.esp
-NPC No Block Exhaustion.esp
-NPC No Block Exhaustion - MCM.esp
-NPCInfiniteBlockFix.esp
-NPC Blocking Enhanced.esp
-RedBag's Solitude - RS Children patch.esp
-Redbag's Rorikstead - LOTD.esp
-Interactive Doors (Physics Based Farmdoors).esp
-BodiesBurnBrightly.esp
-UIExtensions.esp
-iSpellEffectsEmitLight.esp
-Ryn's Standing Stones - The Marshlands Patch.esp
-MBW Dragon Souls to Perk Points - v3-2.esp
-Spellsiphon.esp
-SpellsiphonExperiencePatch.esp
-Armor Variants Expansion - IA_CoS Patch.esp
-Cathedral_S3D_MountainFlowerOverride.esp
-Cathedral_S3D_MountainFlowerOverride_USSEP_Patch.esp
 footprints-ultimateFix.esp
-CS Light.esp
-DBM_Artificer2_Patch.esp
-DBM_JSCirclets_Patch.esp
-DBM_TradeBarter_Patch.esp
-DIAL_Astralite.esp
-DIAL_Astralite_Dark.esp
-FloatingSword - Finding_VelehkSain Patch.esp
-Great Town of Ivarstead - Landscape Grass Patch.esp
-Landscape and Water Fixes - Helgen Lights.esp
-Legacy of the Dragonborn - G.I.R.T.H. Patch.esp
-Lit Road Signs.esp
-Liv_Bruma_DeepElfRace_SaintsandSeducers_Patch.esp
 Praedy's MageStatueFX.esp
-Mrf solitude.esp
 Praedy's WinterholdCollegeBanner.esp
-Particle Patch.esp
-Rudy Nordic Pottery SSE.esp
-The Heart of Dibella QE - RS Children Patch.esp
-ABT SE - Kevkas All-in-One.esp
+Praedy's WinterholdCollegeBanner PBR.esp
 ActivateSoulGemsForRecharging.esp
 Collectibles Helper.esp
 RaPa_RatwayPassages.esp
 SkyforgeImmersionAddon.esp
+Footprints - UltimateFix PBR Patch.esp
 UltimateEbonyWarrior.esp
 VampireClaws.esp
 WGT.esp
@@ -1375,10 +1342,13 @@ BladeAndBlunt.esp
 BBNoSneakCost.esp
 StatFXImods.esp
 StealthKillDetectionFix.esp
+Footprints - PBR Patch.esp
+Footprints - SandPatch PBR Patch.esp
 Insignificant Object Remover.esp
 HonedMetal.esp
 SergiousTurrianus_HM.esp
 No More Dead Shrub.esp
+PBR_Caves.esp
 Spaghetti's Cities - Markarth.esp
 Spaghetti's Markarth - Clutter Addons.esp
 Vanilla Plus Markarth Entrance.esp
@@ -1416,8 +1386,6 @@ HSRiverwood - Riverwood Trader.esp
 HSRiverwood - Riverwood Trader - LOTD.esp
 HSRiverwood - Sleeping Giant Inn.esp
 HSRiverwood - Sven and Hilde's House.esp
-Socalista Solitude.esp
-Socalista Solitude - USSEP Tree Patch.esp
 HSSolitude - Angeline's Aromatics.esp
 HSSolitude - Bits and Pieces.esp
 HSSolitude - Bits and Pieces - LOTD.esp
@@ -1447,6 +1415,7 @@ Windhelm Improvements Snow Shader.esp
 HSWindhelm - Candlehearth Hall - LOTD.esp
 HSWindhelm - Sadri's Used Wares.esp
 HSWindhelm - Temple of Talos - USSEP.esp
+HSWindhelm - Temple of Talos.esp
 HSWindhelm - The White Phial.esp
 HSWindhelm - The White Phial - USSEP.esp
 HS Breezehome - SPO ESL patch.esp
@@ -1470,27 +1439,40 @@ HSWhiterun - Carlotta Valentia's House - Distinct Interiors.esp
 HSWhiterun - Jorrvaskr (Legacy of the Dragonborn).esp
 HSWhiterun - Olava the Feeble's House (Legacy of the Dragonborn).esp
 HSWhiterun - Olava The Feeble's House - Distinct Interiors.esp
+HSWhiterun - The Bannered Mare (Legacy of the Dragonborn).esp
 HSWhiterun - The Bannered Mare - Distinct Interiors.esp
+Occ_Skyrim - The Great City of Dragon Bridge patch.esp
+Occ_Skyrim - The Great Town of Ivarstead.esp
+Occ_Skyrim - The Great Town of Karthwasten patch.esp
+Occ_Skyrim - The Great Town of Shor's Stone patc.esp
+Occ_Skyrim - The Great Village of Kynesgrove patch.esp
+Occ_Skyrim - The Great Village of Mixwater Mill Patch.esp
+Occ_Skyrim - The Great Village of Old Hroldan patch.esp
+Occ_Skyrim-Legacy_of_Dragonborn_patch.esp
+Occ_Skyrim-RedBg's_Solitude_patch.esp
+Occ_Skyrim_City-Entrances-Overhaul-Windhelm_patch.esp
 VlindrelHallRemade.esp
 WT_VlindrelHallFixes.esp
 WT_USSEP_VlindrelHallRemade.esp
 WT_MC_VlindrelHallRemade.esp
 WT_HE_VlindrelHallRemade.esp
 IA710 Vlindrel Hall Remade - MC.esp
-BSHeartland - No Custom Map Markers.esp
+Occ_Skyrim_COTN-Dawnstar_patch.esp
+Occ_Skyrim_COTN-Falkreath_patch.esp
+COTN - Falkreath - Lightened.esp
+Occ_Skyrim_COTN-Morthal_patch.esp
+Occ_Skyrim_COTN-Winterhold_patch.esp
+Occ_Skyrim_Obscure-College-Winterhold_patch.esp
+Occ_Skyrim_Patch_for_tree_replacers.esp
+Occ_Skyrim_Stonehills_patch.esp
+Occ_Skyrim_TGC-Winterhold-v4_patch.esp
+Occ_Skyrim_TGCotN-Winterhold-v4_patch.esp
+RedBag's Rorikstead - eFPS.esp
 HSWhiterun - Warmaiden's (Legacy of the Dragonborn).esp
 HSWhiterun - Ysolda's House (Legacy of the Dragonborn).esp
 HSWilderness - Anise's Cabin (Legacy of the Dragonborn).esp
 HSWindhelm - Candlehearth Hall - Distinct Interiors.esp
 HSWindhelm - Sadri's Used Wares (Legacy of the Dragonborn).esp
-StealthKillDetectionFixLite.esp
-StealingNotBrowsing.esp
-NPCs Take Cover.esp
-Infinite Sprinting Out of Combat.esp
-SkyTactics - Dynamic Combat Styles.esp
-nchardak waterfall fix.esp
-Dynamic Persistent Forms.esp
-Bloodchill Manor Ice Fix.esp
 USMP - Imperious-Races of Skyrim patch.esp
 Embers XD - Fire Magick Add-On.esp
 NoSneakFeedOnFollowers.esp
@@ -1500,13 +1482,13 @@ Apocalypse - Magic of Skyrim.esp
 Apocalypse - Ordinator Compatibility Patch.esp
 Odin - Skyrim Magic Overhaul.esp
 Odin - Ordinator Compatibility Patch.esp
-Markarth Windows.esp
 Conduit.esp
+SteedsOfUltimaVR.esp
 Conduit Extra Weapons Patch.esp
 Odin_WFE_Patch.esp
 Liv_SpellTomeOverride.esp
 Liv_Ordinator_NoTimedBlock_ScrambledBugs_Patch.esp
-COTN Falkreath - Missives patch.esp
+Missives.esp
 Missives Quest Conversion.esp
 Missives - Wyrmstooth.esp
 Missives - Solstheim.esp
@@ -1515,7 +1497,6 @@ Missives - Journal Quest Fix.esp
 Missives - Heartland.esp
 Missives - Deliveries in Skyrim.esp
 Missives - Carriage and Ferry Travel Overhaul Patch.esp
-Diverse Missives Boards BOS.esp
 MissivesPPSbS.esp
 MissivesRBSolitude.esp
 MissivesTF.esp
@@ -1523,14 +1504,16 @@ MQC - Bruma.esp
 MQC - Solstheim.esp
 MQC - Wyrmstooth.esp
 NLIThievesGuild.esp
-Liv_NLIThieves_Patchwork.esp
+Socalista Solitude.esp
+Socalista Solitude - USSEP Tree Patch.esp
+NPCs Visit Weavers Lane.esp
 SSKNotices.esp
 Liv_Ordinator_Descriptions_ApplySpellFix.esp
-WT_v502_bugfixes.esp
 Clouds AIO.esp
 HFs_StrongBox_Diversification.esp
 Boulder in Skyrim.esp
 DDD.esp
+Headshot Kills.esp
 Sanguine Symphony.esp
 Stab the heart.esp
 Vampire Hunter's Stake.esp
@@ -1543,22 +1526,24 @@ nwsFF_NoTeamMagicDamage.esp
 Skyfalls BP Courtyard.esp
 GiftByHandVR.esp
 Horse Storage.esp
+TavernGames.esp
 Liv_CotnDawnstar_Thunderchild_Patch.esp
-CC Farming - TnE - CC Fishing Patch.esp
-CC Farming - TnE - SLAWF Farming Patch.esp
-CC Farming - TnE MCM.esp
 Immersive DragonFire - Thunderchild Patch.esp
 Owls_NoExtraHeadparts.esp
 Liv_ImmersiveDragonfire_Thunderchild_Patch.esp
 CoverYourHead - Sacrosanct.esp
 Amulets of Skyrim - Sacrosanct Desecrated Amulet of Auriel Patch.esp
+Skoglendi - Denser Tundra.esp
+Skoglendi - Tweaked Solstheim.esp
+IA710_HCaS_LotD_Patch.esp
 scar-adxp-patch.esp
 scar_adxp_staminaLimit.esp
 Blubbos_sleeping_tree_2023.esp
+Wyrmstooth PBR.esp
 Blubbos_deity_tree_of_kynareth.esp
-Liv_RedcapPatching.esp
 IA710 Awesome Artifacts Potions Redone My Version Patches Patch.esp
 IA710 COTN Dawnstar Whitehall MC Navmesh.esp
+Jiaye's Windhelm PBR.esp
 IA710 Hendraheim Stables.esp
 IA710 Raven Rock Reborn - 4K Raven Rock.esp
 MCWT_GovernableGatekeeper.esp
@@ -1575,6 +1560,7 @@ WT_High_Gate_Ruin_Fix.esp
 WT_LotD_DwemerPipeworkReworked.esp
 WT_MissingHistTreeFix.esp
 WT_RC_ForgottenCity.esp
+WT_RedbagRorikstead_RealisticRSChildren patch.esp
 WT_Rkund_SurveyTool_Sound.esp
 MCWT_EarlyElementalist_OCW.esp
 Liv_ExpressiveRemi_RemiLotD_Patch.esp
@@ -1618,6 +1604,7 @@ Liv_Bruma_CrittersAintSnitches_Patch.esp
 Liv_Bruma_DeepElfRace_Patch.esp
 Liv_BSAssets_ForgottenCity_Patch.esp
 Liv_BSHeartlandUnofficialPatch_USMP_Patch.esp
+Liv_CapesandCloaks_DrBandolier_Patch.esp
 Liv_CC_FarmingTweaks_Patch.esp
 Liv_CCalmsivi_DwemerGatesNoRelock_Patch.esp
 Liv_CCAltArmorsSilver_ConfessionPlacement.esp
@@ -1642,6 +1629,7 @@ Liv_DawnguardArsenal_USMP.esp
 Liv_DBM_AOS_TAS_Patch.esp
 Liv_DBM_AOS_ToK_Patch.esp
 Liv_DBM_Artificer_ISC_Patch.esp
+Burn Those Books.esp
 Flammable Alcohol.esp
 Liv_DBM_AwesomeArtifacts_Haugbui_Patch.esp
 Liv_DBM_AwesomeArtifacts_NewArmoury_Patch.esp
@@ -1661,6 +1649,7 @@ Liv_DBM_RedbagsSolitude_Patch_Patch.esp
 Liv_DBM_ReturnAegisbane.esp
 Liv_DBM_ScopedBows_TAS_ZephyrRedone_Patch.esp
 Liv_DBM_Shad_AoB_Container.esp
+Liv_DBM_Spellforge_Safehouse.esp
 Liv_DBM_TAS_NewArmoury_Patch.esp
 Liv_DBM_UndeathFixes_Patch.esp
 Liv_DeepElfRace_DwemerGatesNoRelock_Patch.esp
@@ -1671,7 +1660,10 @@ Liv_DeepElfRace_USSEP_Patch.esp
 Liv_DistinctInteriors_WZOblivionArtifacts_Patch.esp
 Liv_DraugrNoSoulMisc.esp
 Liv_DwemerSpectresLegendary_USMP_Patch.esp
-SteedsOfUltimaVR.esp
+Liv_EasyNPC_CannibalDraugr_Patch.esp
+Liv_EasyNPC_DiverseWerewolves_Patch.esp
+Liv_EasyNPC_ScopedBows_Patch.esp
+Liv_EasyNPC_ScopedBows_WerewolfFix_Patch.esp
 Liv_EVGATAIO_VolkiharRebuilt_Patch.esp
 Liv_FaceSculptorExpanded_Growl.esp
 Liv_FaceSculptorExpanded_OpulentThievesGuild.esp
@@ -1688,7 +1680,6 @@ Liv_HeavyArmory_NewArmoury_Patch.esp
 Liv_HeavyArmory_ScopedBows.esp
 Liv_HomeMealYum_USMP_Patch.esp
 Liv_ImpHelmLegend_Undeath_Patch.esp
-TL Bulbs ISL.esp
 Liv_IronArmorReplacer_BSAssets.esp
 Liv_JPDawnstar_TypoFix.esp
 Liv_JSRings_AwesomeArtifacts.esp
@@ -1704,7 +1695,9 @@ Liv_NewArmory_USMP.esp
 Liv_NewHeavyFishingArmoryHaugbui.esp
 Liv_NoTamedSnowrays.esp
 Liv_Odin_TelekinesisFix_Patch.esp
+Liv_RSChildren_GrayCowlCC_FacegenFix.esp
 Liv_ScopedBowsArrowTweaks_USSEP_Patch.esp
+Liv_SpellbreakerReforgedIntegration.esp
 Liv_Summermyst_Artificer_Patch.esp
 Liv_Summermyst_AwesomeArtifacts_Patch.esp
 Liv_Summermyst_TAS_Patch.esp
@@ -1735,142 +1728,122 @@ COTN Dawnstar - SK Unique Signs Patch.esp
 COTN Dawnstar - Waking Nightmare Patch.esp
 COTN Falkreath - SK Unique Signs Patch.esp
 COTN Morthal - SK Unique Signs Patch.esp
-ClickySoundBegone.esp
-alternate start - live another life.esp
-DBM_RelicHunter.esp
-RedBag's Rorikstead - ASLAL.esp
-Race Compatibility Dialogue SSE - ASLAL.esp
-LOTD_TCC_GuildMaster.esp
-Great Town of Ivarstead - Alternate Start Patch.esp
-COTN Morthal - Alternate Start Patch.esp
-COTN Falkreath - Alternate Start Patch.esp
-COTN Dawnstar - Alternate Start LAL Patch.esp
-AdventurerFlintlockPack.esp
-ASLAL - Skyrim VR Patch.esp
-Astralite Weathers.esp
-Astralite Weathers - Darker Nights patch.esp
-DragonsFallDown.esp
-ElementalFuryVR.esp
-GDOS - Doorfixes.esp
+NPC Appearances Merged.esp
+Liv_EasyNPC_WerewolfFix.esp
+WT  v410 issue report fixes.esp
+Spellforge - Library.esp
+Lively's Tweaks.esp
+StealthKillDetectionFixLite.esp
+StealingNotBrowsing.esp
+NPCs Take Cover.esp
+Infinite Sprinting Out of Combat.esp
+Anga's Mill COTN Addon - eFPS.esp
+Darkwater Crossing TGC Addon - eFPS.esp
+Kolskeggr Mine TGC Addon - eFPS.esp
+[LM] eFPS Falkreath Fix.esp
+COTN_Dawnstar_eFPS_Boost_Patch.esp
+SkyTactics - Dynamic Combat Styles.esp
+nchardak waterfall fix.esp
+BSHeartland - No Custom Map Markers.esp
+Dynamic Persistent Forms.esp
+NPC Appearances Merged - Textures0.esp
+Bloodchill Manor Ice Fix.esp
+NPC Appearances Merged0.esp
 ICFTundraScrubs.esp
-imp_helm_Immersive_Armors.esp
-imp_helm_USSEP.esp
-Imperial Castles of Skyrim.esp
-Landscape Fixes For Grass mods - Alternate start Locations.esp
-OH_ASLAL_Patch.esp
-QwibNewLanterns.esp
-Real Galaxy.esp
 ScrubbingOffSpunk - SMIM.esp
 ScrubbingOffSpunk - USSEP.esp
 ScrubbingOffSpunk.esp
-Spaghetti's Palaces - AIO.esp
+js_bard_vr_patch.esp
+ICRFixes.esp
+NIBF_SkyPatcher.esp
+NPC No Block Exhaustion.esp
+NPC No Block Exhaustion - MCM.esp
+NPCInfiniteBlockFix.esp
+NPC Blocking Enhanced.esp
+Freak's Floral Fields.esp
+Freak's Floral Fields- Volcanic Wasteland.esp
+Freak's Floral Fields- Realistic Rift.esp
+Freak's Floral Fields- Marsh Ultra.esp
+Diverse HQ PBR Shrubs.esp
+Freak's Floral Fields-  Realistic Pine.esp
+Groundcover.esp
+flowerlands.esp
+Redbag's Rorikstead - LOTD.esp
+Freak's Floral Fields- Mixed Reach.esp
+Grass FPS Booster - FloralFields.esp
+Interactive Doors (Physics Based Farmdoors).esp
+Faultier's PBR landscapes.esp
+BodiesBurnBrightly.esp
+UIExtensions.esp
+iSpellEffectsEmitLight.esp
+js_empowerment_patch.esp
+Ryn's Standing Stones - The Marshlands Patch.esp
 Landscape Fixes For Grass Mods.esp
-TorchesCandlelightSimpleLanterns.esp
-TorchesCandlelightSimpleLanternsDisableFuel.esp
-TSR_TeldrynSeriousPatch.esp
+ElementalFuryVR.esp
 WadeInWater.esp
 Water for ENB (Shades of Skyrim).esp
-floating stuff and water fixes.esp
-Natural Waterfalls - Water for ENB Patch (Shades of Skyrim).esp
-Landscape and Water Fixes - LFfGM - GotT - Water for ENB patch.esp
 Water for ENB - Patch - Beyond Skyrim.esp
-Water for ENB - Patch - Landscape Fixes for Grass Mods.esp
+Water for ENB - Patch - Calm Water.esp
 Water for ENB - Patch - Song of the Green (Auri Follower).esp
 Water for ENB - Patch - The Forgotten City.esp
 Water for ENB - Patch - Wyrmstooth.esp
-WEC - Core.esp
-WT_RitualMarkers.esp
-Little Touches for Whiterun - Inside.esp
-Liv_ASLALReducedStartOptions.esp
-Liv_DBM_Spellforge_Safehouse.esp
-Liv_TempusGuideBook.esp
+MBW Dragon Souls to Perk Points - v3-2.esp
 lumo.esp
+Grass FPS Booster - Skoglendi.esp
+Landscape and Water Fixes - LFfGM - GotT - Water for ENB patch.esp
+Real Galaxy.esp
+Landscape and Water Fixes - Patch - LFfGM - Elysium Estate.esp
+Lanterns In Town.esp
+alternate start - live another life.esp
+Landscape and Water Fixes - Patch - Alternate Start - LFfGM.esp
+Liv_TempusGuideBook.esp
+Liv_ASLALReducedStartOptions.esp
+OH_ASLAL_Patch.esp
 Spellforge - Worldforge in Alternate Start.esp
-chest edit.esp
-Northern Roads - Forgotten City patch.esp
-Northern Roads.esp
-Northern Roads - Landscape Fixes for Grass Mods patch.esp
-Northern Roads - Alternate Start Live Another Life patch.esp
-Northern Roads - Water for ENB (Shades of Skyrim) patch.esp
-Northern Roads - Water for ENB (Shades of Skyrim) - LFFGM patch.esp
-Northern Roads - Watchtower Doesn't Start Broken patch.esp
-Northern Roads - Vigilant patch.esp
-Northern Roads - USSEP Additions.esp
-Northern Roads - Undeath patch.esp
-Northern Roads - Tools of Kagrenac patch.esp
-Northern Roads - The Great Village of Old Hroldan patch.esp
-Northern Roads - The Great Village of Mixwater Mill patch.esp
-Northern Roads - The Great Village of Kynesgrove patch.esp
-Northern Roads - The Great Town of Shor's Stone patch.esp
-Northern Roads - The Great Town of Karthwasten patch.esp
-Northern Roads - The Great Town of Ivarstead (stone) patch.esp
-Northern Roads - TGCotN Winterhold patch.esp
-Northern Roads - Stonehills patch.esp
-Northern Roads - RedBag's Solitude patch.esp
-Northern Roads - Solitude Weaver's Lane Patch.esp
-Northern Roads - Ryn's Standing Stones patch.esp
-Northern Roads - Rocks Patch.esp
-Northern Roads - Redbag's Rorikstead patch.esp
-Northern Roads - RedBag's Rorikstead + ASLAL patch.esp
-Northern Roads - Nordic Ruins of Skyrim patch.esp
-Northern Roads - Legacy of the Dragonborn patch.esp
-Northern Roads - Hold Border Banners patch.esp
-Northern Roads - Glenmoril Patch.esp
-Northern Roads - Floating Plants Fix.esp
-Northern Roads - Floating Objects Fix.esp
-Northern Roads - Finding Helgi patch.esp
-Northern Roads - COTN Morthal Patch.esp
-Northern Roads - COTN Falkreath Patch.esp
-Northern Roads - COTN Falkreath - LFFGM patch.esp
-Riften Temple Sconce Fix - BOS.esp
-Northern Roads - COTN Dawnstar Patch.esp
-Northern Roads - CFTO patch.esp
-Northern Roads - CC Tundra Homestead patch.esp
-Northern Roads - CC The Cause patch.esp
-Northern Roads - CC Saints and Seducers patch.esp
-Northern Roads - CC Myrwatch patch.esp
-Northern Roads - CC Fishing patch.esp
-Northern Roads - CC Farming patch.esp
-Animated Armoury - Summermyst Enchanted.esp
-AnimatedArmoury-SkyrimSpearMechanic-Blacksmith_lvllist-patch.esp
-AnimatedArmoury-SkyrimSpearMechanic_lvllist-patch.esp
-DawnguardArsenal-AnimatedArmoury-DawnguardWeapons_lvllist-patch.esp
-Skyrim Spear Mechanic - Summermyst Enchanted.esp
-AnimatedArmoury-SkyrimSpearMechanic-SummermystEnch-lvllistpatch.esp
-Northern Roads - BS Bruma Patch.esp
-Northern Roads - Better DG Entrance patch.esp
-Northern Roads - Anga's Mill COTNed patch.esp
-Northern Roads - Additional Roads.esp
-norther roads ivarsted hh bridge nav patch.esp
-Northern Roads - Fortified Whiterun Patch.esp
-Northern Roads - Obsidian Mountain Fogs patch.esp
-Northern Roads - Skyland HD Roadsigns Patch.esp
-WT_Landscape_Fixes.esp
-Liv_EasyNPC_USMP_Patch.esp
-Liv_EasyNPC_CannibalDraugr_Patch.esp
-Liv_EasyNPC_DiverseWerewolves_Patch.esp
-Liv_EasyNPC_ScopedBows_Patch.esp
-Liv_EasyNPC_ScopedBows_WerewolfFix_Patch.esp
-NPC Appearances Merged.esp
-Liv_EasyNPC_WerewolfFix.esp
-WindhelmEntranceOverhaul - USMP Patch.esp
-NPC Appearances Merged0.esp
-NPC Appearances Merged - Textures0.esp
-eeekie's Orpheus.esp
-CS_Auri.esp
-RSChildren Patch - BS Bruma.esp
-Lumo - True Light Exteriors.esp
-Whiterun Watchtower - No Ice.esp
-True Light - Shadows and Ambient.esp
-True Light - Creation Club.esp
-True Light - USSEP Patch.esp
-True Light Exteriors.esp
-TerrainHelper.esp
-Exterior Lanterns AIO LP.esp
+DBM_RelicHunter.esp
+Cathedral_S3D_MountainFlowerOverride.esp
+Cathedral_S3D_MountainFlowerOverride_USSEP_Patch.esp
+Landscape and Water Fixes - Helgen Lights.esp
+GDOS - Glorious Solitude Door - Rotation Fix.esp
+GDOS - Splendid Mechanized Dwemer Door.esp
+GDOS - Doorfixes.esp
+Jiaye's Bruma PBR.esp
+Nature of the Wild Lands.esp
+Nature of the Wild Lands - Alternate Start Patch.esp
+Nature of the Wild Lands - Auri.esp
+Nature of the Wild Lands - Bruma.esp
+Nature of the Wild Lands - CC Tundra Homestead.esp
+Nature of the Wild Lands - Glenmoril.esp
+Nature of the Wild Lands - Better Dynamic Ash.esp
+Nature of the Wild Lands - RedBag's Solitude patch.esp
+DBM_RedBag_NotWL_patch.esp
+Nature of the Wild Lands - SLaWF Patch.esp
+Nature of the Wildlands - COTN Falkreath.esp
+Nature of the Wildlands - COTN Morthal.esp
+Nature of the Wildlands - Ryn's Standing Stones.esp
+Nature of the Wildlands - Song of the Green.esp
+Nature of the Wildlands - Wyrmstooth.esp
+Occ_Skyrim_Fortified-Whiterun_patch.esp
+Imperial Castles of Skyrim.esp
+Lux.esp
+Lux_no_ENB.esp
+Lux - USSEP patch.esp
+Lux - SLaWF patch.esp
+Lux Via - CC Farming Patch.esp
+Lux Via - City Entrances Overhaul - Windhelm Patch.esp
+Lux Via - More Lantern Posts.esp
+Lux Via - More Lanterns Posts in Whiterun.esp
+Lux Via - More Lanterns Posts in Windhelm.esp
+Lux Via - plugin.esp
+Lux Via - Ryn's Standing Stones patch.esp
+Lux Via - Stonehills.esp
+Lux Via - TGC Winterhold V4 patch.esp
+Lux Via - Wyrmstooth addon.esp
 Lux Orbis - USMP Patch.esp
 Lux Orbis.esp
 Lux Orbis - USSEP patch.esp
 Lux Orbis - Embers XD patch.esp
+Lux Orbis - Alternate Start patch.esp
 Lux Orbis - Arms of Chaos CC.esp
 Lux Orbis - Auri Song of the Green.esp
 Lux Orbis - Bow of Shadow CC.esp
@@ -1882,6 +1855,7 @@ Lux Orbis - COTN Morthal patch.esp
 Lux Orbis - COTN Winterhold patch.esp
 Lux Orbis - Darkwater Crossing TGC Addon patch.esp
 Lux Orbis - Depths of the Reach.esp
+Lux Orbis - Elysium Estate patch.esp
 Lux Orbis - Farming CC patch.esp
 Lux Orbis - Finding Helgi and Laelette patch.esp
 Lux Orbis - Fortified Whiterun patch.esp
@@ -1906,175 +1880,154 @@ Lux Orbis - Saints and Seducers Extended Cut patch.esp
 Lux Orbis - Saturalia CC.esp
 Lux Orbis - Socalista Solitude patch.esp
 Lux Orbis - Spell Knight Armor CC.esp
-I4_DearDiary.esp
-I4ArmorIconsOverhaul.esp
-I4IconAddon.esp
-I4WeaponIconsOverhaul.esp
-PENIS_IconsAddon.esp
-SkyUI_Weapons_Pack.esp
-Spell Tomes - I4 icons.esp
-UntarnishedUI_Subtitle.esp
-BOOBIES_ImmersiveIcons.esp
 Lux Orbis - Stonehills.esp
 Lux Orbis - The Great City of Dragon Bridge patch.esp
 Lux Orbis - The Great City of Dragon Bridge no light.esp
 Lux Orbis - The Great City of Winterhold V4 patch.esp
-TGC Winterhold - Alternate Start patch.esp
-Solstheim Reborn - Frostmoth.esp
-Frostmoth Overhaul - Fixes.esp
-Frostmoth Overhaul - Animated Ships Patch.esp
-SR-FM Dragonborn Patch.esp
-TGC Winterhold - Missives patch.esp
 Lux Orbis - TGCotN Winterhold patch.esp
-Aspens Ablaze.esp
-Aspens Ablaze - Animated.esp
 Lux Orbis - Tools of Kagrenac patch.esp
 Lux Orbis - Tundra Homestead patch.esp
 Lux Orbis - Undeath patch.esp
 Lux Orbis - Val Serano Follower.esp
-Lux Orbis - Windhelm Entrance Overhaul patch.esp
-Lux Orbis - Wyrmstooth.esp
-Lux Orbis - Xelzaz patch.esp
+Little Touches for Whiterun - Inside.esp
+Lux - Anga's Mill COTN patch.esp
+Lux - Artifacts - The Ice Blade of the Monarch.esp
+Lux - Artifacts - The Tournament of the Ten Bloods.esp
+Lux - Auri Song of the Green patch.esp
+Lux - Bittercup Patch.esp
+Lux - Bloodchill Manor patch.esp
+Lux - Carved Brink.esp
+Lux - Castle Volkihar Rebuilt patch.esp
+Lux - CC Farming Tweaks patch.esp
+Lux - CC Fish patch.esp
+Lux - COTN Dawnstar patch.esp
+Lux - COTN Falkreath patch.esp
+Lux - COTN Morthal patch.esp
+Lux - Darkwater Crossing TGC patch.esp
+Lux - Dawnfang CC.esp
+Lux - Dead Mans Dread Patch.esp
+Lux - Demon of Dreams patch.esp
+Lux - Distinct Interiors patch.esp
+Lux - Distinct COTN Morthal Patch.esp
+Lux - Distinct COTN Falkreath Patch.esp
+Lux - Elite Crossbows.esp
+Lux - Elysium Estate patch.esp
+Lux - Farmer patch.esp
+Lux - Finding Helgi and Laelette patch.esp
+Lux - Forgotten City.esp
+Lux - Forgotten Seasons.esp
+Lux - FortunesTradehouse.esp
+Lux - Glenmoril patch.esp
+Lux - Goblins CC.esp
+Lux - Goldbrand CC.esp
+Lux - Great Village of Ivarstead patch.esp
+Lux - Great Village of Karthwasten patch.esp
+Lux - Great Village of Kynesgrove patch.esp
+Lux - Great Village of Mixwater Mill patch.esp
+Lux - Great Village of Old Hroldan patch.esp
+Lux - Great Village of Shor's Stone patch.esp
+Lux - Hendraheim patch.esp
+Lux - Identity Crisis patch.esp
+Lux - Juniper's Dawnstar Sanctuary patch.esp
+Lux - Kolskeggr Pavos House TGC patch.esp
+Lux - Legacy of the Dragonborn - Auri Follower Patch.esp
+Lux - Legacy of the Dragonborn - JaySuS Swords Patch.esp
+Lux - Legacy of the Dragonborn - Royal Armoury patch.esp
+Lux - Legacy of the Dragonborn patch.esp
+Lux - Legacy of the Dragonborn Hall of Wonders patch.esp
+Lux - Legacy of the Dragonborn - Wheels of Lull.esp
+Lux - Legacy of the Dragonborn - Artifacts of Boethiah.esp
+Lux - Legacy of the Dragonborn - Aetherium Weapons.esp
+Lux - DBM_CC_GhostsoftheTribunalHOWPatch.esp
+Lux - Live Another Life patch.esp
+Lux - Lucien.esp
+Lux - MorthalBarrow patch.esp
+Lux - Myrwatch patch.esp
+Lux - Nchuanthumz Dwarven Home patch.esp
+Lux - Necrohouse patch.esp
+Lux - Oblivion Artifacts Pack patch.esp
+Lux - OCW College.esp
+Lux - Pets of Skyrim CC.esp
+Lux - ProjectAHO.esp
+Lux - Ratway Passage patch.esp
+Lux - RedBag's Rorikstead.esp
+Lux - RedBag's Solitude patch.esp
+Lux - Redcap Follower patch.esp
+Lux - Remiel patch.esp
+Lux - Restoring Aretino Residence patch.esp
+Lux - Saints and Seducers Extended Cut patch.esp
+Lux - Save the Icerunner patch.esp
+Lux - Shadowfoot Sanctum patch.esp
+Lux - Sirenroot patch.esp
+Lux - Socalista Solitude patch.esp
+Lux - Solstheim Lost Levels patch.esp
+Lux - Staff of Hasedoki CC.esp
+Lux - Stonehills.esp
+Lux - Tale of Xiros patch.esp
+Lux - Teldryn Serious.esp
+Lux - TGCotN Winterhold V4 patch.esp
+Lux - The Cause patch.esp
+Lux - The Great City of Dragon Bridge patch.esp
+Lux - There's no Umbra Chapter III patch.esp
+Lux - Tools of Kagrenac patch.esp
+Lux - Tundra Homestead patch.esp
+Lux - Umbra CC.esp
+Lux - Undeath patch.esp
+Lux - Unslaad.esp
+Lux - Val Serano Follower.esp
+Lux - Vigil Enforcer CC.esp
+Lux - Vigilant patch.esp
+Lux - Waking Nightmare patch.esp
+Lux - Water for ENB (Shades of skyrim) patch.esp
+Lux - Windhelm Entrance Overhaul patch.esp
+Lux - Wraithguard patch.esp
+Lux - Wyrmstooth.esp
 Lux Orbis - Dayspring Pass.esp
 Lux Orbis - SMIM-SE-Merged-All.esp
-Wheat Field.esp
-RealWheatField RedBagRorikstead Patch.esp
-lotd_luxorbis_stalkinglanternsfix.esp
-Lux Orbis - Riverwood street lights.esp
-Lux Via - CC Farming Patch.esp
-Lux Via - CFTO patch.esp
-Lux Via - City Entrances Overhaul - Windhelm Patch.esp
-ScopedBows_ArrowTweaks.esp
-ScopedBows_EagleEyeTweak.esp
-RTDocks - Animated Ships.esp
-RTDocks - CFTO.esp
-RLGBrumaLanterns.esp
-PrvtI_HA_DraugrWeapons.esp
-Nightgate Inn Revived - Alternate Start.esp
-Nightgate Inn Revived - Lux Orbis.esp
-Lux Via - More Lantern Posts.esp
-Madmen - Spell Knight Armor.esp
-Lux Via - plugin.esp
-Lively's Tweaks.esp
-Medieval Markets.esp
-Lux Orbis - Medieval Markets ESL.esp
-Medieval Markets - Creation Club Fishing Patch.esp
-Lux Via - Ryn's Standing Stones patch.esp
-Lux Via - Stonehills.esp
-Lux Via - TGC Winterhold V4 patch.esp
-GDOS - Doorfixes for Redbag's Solitude.esp
-RedBag's Solitude - Lux Via patch.esp
-RedBag's Solitude - Missives patch.esp
-Lux Via - Wyrmstooth addon.esp
-Northern Roads - Lux Via Clutter - Reach Bridge Fix.esp
-Northern Roads - Lux Via patch.esp
-Northern Roads - Lux Via - The Great Town of Karthwasten.esp
-Northern Roads - Lux Orbis Patch.esp
-Great Town of Shor's Stone - Obsidian Mountain Fogs Patch.esp
-Great Town of Shor's Stone - RS Children Patch.esp
-Vanilla Riverwood Bridge - NR - LuxVia - Patch.esp
-Enhanced Vanilla Trees SSE.esp
-SimplyBiggerTreesSE.esp
-CT_70_BrandyMugFarm_MihailChickens_PATCH.esp
-CT_70_BrandyMugFarm_NorthernRoads_PATCH.esp
-CT_70_Chillfurrow_NorthernRoads_PATCH.esp
-Liv_RSChildren_GrayCowlCC_FacegenFix.esp
-CT_70_Dawnstar_COTN_PATCH.esp
-CT_70_DragonBridge_TGCoDB_PATCH.esp
-CT_70_Falkreath_COTN_PATCH.esp
-CT_70_Falkreath_MihailChickens_PATCH.esp
-CT_70_HeljarchenHall_CFTO_PATCH.esp
-CT_70_HeljarchenHall_LFFGM_PATCH.esp
-CT_70_HollyFrostFarm_MihailChickens_PATCH.esp
-CT_70_HollyFrostFarm_NorthernRoads_PATCH.esp
-CT_70_Ivarstead_AspensAblaze_PATCH.esp
-CT_70_Ivarstead_TGTOI_PATCH.esp
-CT_70_Karthwasten_EVTSSE_PATCH.esp
-CT_70_Karthwasten_TGToK_PATCH.esp
-CT_70_KatlasFarm_NorthernRoads_PATCH.esp
-CT_70_LakeviewManor_LFFGM_PATCH.esp
-CT_70_LakeviewManor_NorthernRoads_PATCH.esp
-CT_70_LoreiusFarm_NorthernRoads_PATCH.esp
-CT_70_Markarth_SpaghettiCities_PATCH.esp
-CT_70_MerryfairFarm_LFFGM_PATCH.esp
-CT_70_MerryfairFarm_MihailChickens_PATCH.esp
-CT_70_RavenRock_RRR_PATCH.esp
-CT_70_RiftenStables_NorthernRoads_PATCH.esp
-CT_70_SalviusFarm_MihailChickens_PATCH.esp
-Imperial Castles of Skyrim- Lux Orbis patch.esp
-CT_70_SalviusFarm_NorthernRoads_PATCH.esp
-CT_70_SarethiFarm_LFFGM_PATCH.esp
-CT_70_SarethiFarm_MihailChickens_PATCH.esp
-CT_70_SnowShodFarm_MihailChickens_PATCH.esp
-CT_70_SnowShodFarm_USSEP_PATCH.esp
-CT_70_Solitude_RedBagsSolitude_PATCH.esp
-CT_70_TheGoldenHare_NorthernRoads_PATCH.esp
-ATLM - Dungeons.esp
-ATLM - HDR.esp
-CT_70_Whiterun_EnhancedVanillaTrees_PATCH.esp
-CT_70_WhiterunOutskirt_KhajiitHasTents_PATCH.esp
-CT_70_Windhelm_EnhancedVanillaTrees_PATCH.esp
-CT_70_WindstadManor_LFFGM_PATCH.esp
-CT_71_WhiterunOutskirt_NorthernRoads_PATCH.esp
-CT_75_SnowShodFarm_NorthernRoads_PATCH.esp
-RU_CityTreesSE_RoriksteadRB.esp
-CT_70_Rorikstead_NorthernRoads_PATCH.esp
-Dawnstar is Snowy - Plants and Fences BOS version.esp
-Medieval Markets - CC Nordic Jewelry Patch.esp
-Medieval Markets - City Trees - Markarth Patch.esp
-Medieval Markets - Redbag's Solitude Patch.esp
-Medieval Markets - Spaghetti's Cities - Markarth Patch.esp
-Medieval Markets - USSEP Patch.esp
-DenseNordicForests.esp
-COTN Angas Mill Addon - Lux Orbis patch.esp
-Northern Roads - COTN Morthal - Lux Orbis Patch.esp
-Northern Roads - Lux Via - Watchtower Doesn't Start Broken patch.esp
-Northern Roads - Lux Via - Lux Orbis consistency patch.esp
-Northern Roads - Lux Via - LFFGM patch.esp
-Northern Roads - Lux Via patch - NR bridges.esp
-Northern Roads - Lux Via patch - NR Bridges - Via Markarth Bridges.esp
-Recharge Framework.esp
-Wabbajack Recharging.esp
-Windhelm Snow Pile Fix.esp
-Northern Roads - Grass Patch.esp
-NPCs Visit Weavers Lane.esp
-Vanaheimr Landscapes.esp
-Vanaheimr Landscapes - Snowy Rocks Fix.esp
-Vanaheimr Landscapes - Windhelm Darker Snow Rocks.esp
-Vanaheimr Lod Fixes.esp
-WT_RedbagRorikstead_RealisticRSChildren patch.esp
-S3DTrees NextGenerationForests.esp
-Medieval Markets - Whiterun Fixes.esp
-js_megapatch.esp
-js_bard_vr_patch.esp
-js_eagleeye_easier.esp
-js_bannered_mare_delete_stuff.esp
-js_northern_roads_cfto_patch.esp
-js_some_objects_deleted.esp
-js_spellsiphon_patch.esp
-js_empowerment_patch.esp
-js_astralite_even_darker.esp
-js_flintlock_light.esp
-js_hs_patches.esp
+Lux Orbis - Wyrmstooth.esp
+Lux Orbis - Xelzaz patch.esp
+Markarth Windows.esp
+Occ_Skyrim_Lux_Via.esp
 js_landscape_seam_northern_roads_whiterun.esp
+Nature of the Wild Lands - Northern Roads Patch.esp
+Vanaheimr - Northern Roads - PBR.esp
+Occ_Skyrim_NorthernRoads_patch.esp
+Occ_Skyrim_NorthernRoads_TGC-Ivarstead-stone_patch.esp
+Northern Roads - PBR.esp
+Lux Orbis - Windhelm Entrance Overhaul patch.esp
+chest edit.esp
+js_eagleeye_easier.esp
+Spellsiphon.esp
+ClickySoundBegone.esp
+SpellsiphonExperiencePatch.esp
+js_spellsiphon_patch.esp
+Astralite Weathers.esp
+Astralite Weathers - Darker Nights patch.esp
+js_hs_patches.esp
+ASLAL - Skyrim VR Patch.esp
+WT_v502_bugfixes.esp
+Liv_RedcapPatching.esp
+DIAL_Astralite.esp
+js_megapatch.esp
+Vanaheimr PBR landscapes.esp
+Nature of the Wild Lands - Animation Plugin.esp
+Vanaheimr - Mines and Caves - PBR.esp
+CS Light.esp
+AdventurerFlintlockPack.esp
 ELAFGunPowder.esp
-js_tower_fix.esp
-Kemper's Lavendar Fields.esp
-Skoglendi - A Grass Mod.esp
-Skoglendi Tweaks.esp
-RVX_Skoglendi_KempersLavenderTundra Patch RED.esp
-Grass FPS Booster - Skoglendi.esp
-js_grass_patch.esp
-Lux Orbis - Alternate Start patch.esp
-Landscape and Water Fixes - Patch - Alternate Start - LFfGM.esp
-js_arrow_patch.esp
-js_nightgate_tl_patch.esp
-js_test_fixes.esp
-js_rs_fix.esp
-js_cloaks_patch.esp
-js_bds_cotn_winterhold_patch.esp
-js_city_tree_dragonbridge_patch.esp
-Parallax Textures For Vanilla Game.esp
+WEC - Core.esp
+js_flintlock_light.esp
+NotWL - Autumn Rift.esp
+RedBag's Rorikstead - ASLAL.esp
+js_some_objects_deleted.esp
+js_lux_removal_of_stuff.esp
+Lux - No bound patch.esp
+immersive_torches.esp
+DIAL_Lux_Patch.esp
+js_post_megapatch_yeah_i_know_lux_patch.esp
+js_azurite_darker.esp
+js_northern_roads_cfto_patch.esp
+js_grass_mix_new.esp
 Skyrim 202X by Pfuscher.esp
 Skyrim 202X by Pfuscher0.esp
 Skyrim 202X by Pfuscher1.esp
@@ -2082,90 +2035,29 @@ Skyrim 202X by Pfuscher2.esp
 Skyrim 202X by Pfuscher3.esp
 Skyrim 202X by Pfuscher4.esp
 Skyrim 202X by Pfuscher5.esp
-Skyrim 202X by Pfuscher6.esp
-Skyrim 202X by Pfuscher7.esp
-Skyrim 202X by Pfuscher8.esp
-Skyrim 202X by Pfuscher9.esp
-Skyrim 202X Complex Terrain Parallax.esp
-arnima0.esp
-Beyond Skyrim - Bruma Upscaled Textures (BSBUT) - Armor 4x.esp
-Beyond Skyrim - Bruma Upscaled Textures (BSBUT) - Clothes 4x.esp
-Beyond Skyrim - Bruma Upscaled Textures (BSBUT) - Weapons 4x.esp
-Draco's 3D Plants and Shrub Replacer.esp
-DrJacopo's - 3D Landscapes and Grass Library.esp
-DrJacopo's - 3D Landscapes and Grass Library0.esp
-Cathedral - 3D Pine Grass for ENB Complex Grass.esp
-Cloaks Of Skyrim Retextured SE.esp
-Iconic Statues.esp
-Ruins Clutter Improved 4K - Cleaned and Upscaled Textures.esp
-RUSTIC CLOTHING - Special Edition - 2K-1K.esp
-SC - KS Hairdos Retextured.esp
-SC - KS Hairdos Retextured0.esp
-SC - KS Hairdos Retextured1.esp
-Tomato's Imperial Forts 2.0 - Complex Material - 4k 2K 1k.esp
-Tomato's Markarth and Dwemer Ruins Complex Parallax Material 4K.esp
-Darkend0.esp
-Unslaad Weapons and Armors Retexture SE.esp
-Vigilant Armors and Weapons Retexture SE.esp
-VR Arsenal0.esp
-Glenmoril Armors and Weapons Retexture SE.esp
-Glenmoril Armors and Weapons Retexture SE0.esp
-Immersive Armors Retexture and Mesh Fixes SE.esp
-Immersive Armors Retexture and Mesh Fixes SE0.esp
-Skyland Bits and Bobs - A Clutter Overhaul.esp
-KS Hairdo's0.esp
-Lit Road Signs0.esp
-mihailicetitansandseagiants0.esp
-new facegen.esp
-Numinous Nord Ruins - Complex Parallax Nordic Dungeon Retexture 8K 4K 2K.esp
-Numinous Nord Ruins - Complex Parallax Nordic Dungeon Retexture 8K 4K 2K0.esp
-Orc Settlements Enhanced.esp
-Security Overhaul SKSE - Regional Locks.esp
-Tempus Maledictum - Bodyslide Output.esp
-ulvenwald stumps.esp
 Perfect Terrain Lod - Vanaheimr AIO - Tomato's landscapes - Full Easy Guide.esp
 Perfect Terrain Lod - Vanaheimr AIO - Tomato's landscapes - Full Easy Guide0.esp
 Perfect Terrain Lod - Vanaheimr AIO - Tomato's landscapes - Full Easy Guide1.esp
 Perfect Terrain Lod - Vanaheimr AIO - Tomato's landscapes - Full Easy Guide2.esp
-Perfect Terrain Lod - Vanaheimr AIO - Tomato's landscapes - Full Easy Guide3.esp
-Diverse HQ PBR Shrubs.esp
-Praedy's WinterholdCollegeBanner PBR.esp
-Footprints - UltimateFix PBR Patch.esp
-Footprints - PBR Patch.esp
-Footprints - SandPatch PBR Patch.esp
-PBR_Caves.esp
-Wyrmstooth PBR.esp
 Faultier's PBR Clutter.esp
 Faultier's PBR DLC01 architecture.esp
 Faultier's PBR DLC02 architecture.esp
 Faultier's PBR Nordic Ruins.esp
 Faultier's PBR Shacks, Stockades, Mines.esp
 Faultier's PBR Soul Cairn.esp
+Liv_NLI_Lux_Roombound_Revert.esp
+Liv_NLIThieves_Patchwork.esp
+TL Bulbs ISL.esp
+js_astralite_even_darker.esp
+js_bannered_mare_delete_stuff.esp
 Faultier's PBR Windhelm.esp
-Jiaye's Windhelm PBR.esp
-PbrClothesVariants.esp
-Jiaye's Bruma PBR.esp
-Northern Roads - PBR.esp
-Faultier's PBR landscapes.esp
-Vanaheimr - Northern Roads - PBR.esp
-Fantasia PBR.esp
-Northern Roads - Rockydirt02 PBR.esp
-Vanaheimr Mountains PBR.esp
-Book Covers Skyrim PBR.esp
-Fantasia Landscapes pre-pbr.esp
-Weapons and Armors Remastered - PBR and Complex Materials.esp
-Weapons and Armors Remastered - PBR and Complex Materials0.esp
-Guards Armor Replacer - Complex Material and PBR.esp
-Jiaye's Bruma PBR0.esp
-Jiaye's Bruma PBR1.esp
-PbrClothesVariants0.esp
-Skyking Signs PBR.esp
-Skyland PBR.esp
-Tomato's Riften PBR - 4k.esp
-Tomato's Solitude PBR and Complex Material.esp
+xLODGen_Output.esp
+xLODGen_Output0.esp
+xLODGen_Output1.esp
+xLODGen_Output2.esp
+Occlusion.esp
 ParallaxGen.esp
-PG_1.esp
-syn_placedlight.esp
 Synthesis.esp
 DynDOLOD.esp
-Occlusion.esp
+PG_1.esp
+TerrainHelper.esp
