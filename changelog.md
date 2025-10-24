@@ -1,34 +1,63 @@
 1.2
 
 chose heather with skoglendi for denser coverage and splashes of color, and more performant than the previous grass for more density
+
 fixed black spots in walls
+
 fixed lighting , unholy mix of lux and TL/CSL , got window lights and torches working properly
+
 added guns, made my own skse plugin to fix guns
+
 why do I do this to myself
+
 lots of other shit idk, forgot to write it down
+
 oh yeah, changed back to astralite weathers again
+
 added mountain fogs
+
 removed a statue in bannered mare that caused an npc to walk into it like an idiot
+
 removed fortified whiterun lanterns as they were in wrong places
+
 redid tree lods to be lighter
+
 pbr tree lods are pain
+
 completely broke the list and lost the load order and a bunch of plugins, so had to restore from an older backup and reconstruct things mod by mod, so that took a week which was fun
+
 updated CS for VR upscaling
+
 I counted so far 114 minor fixes for various things, floating objects etc
+
 added fantasia landscapes as its more colorful
+
 added city trees for more color
+
 general change to aesthetic to suit tempus high fantasy vibe more
+
 removed eslified mods, it was too annoying to keep track
+
 removed Elysium estate - kept causing landscape issues, and there are other housing options
+
 removed efps - patching was a pain
+
 removed jswords  to simplify leveled list patching
+
 vanilla trees pbr + lightwood trees PBR to claw back some performance
+
 aspens ablaze pbr for more color
+
 added CS performance profiles again now that upscaling is back, making that more meaningful
+
 overall theme of update - claw back performance, reduce complexity, and add density and color instead of sheer texture resolution / mesh complexity
+
 added solstheim reborn fort frostmoth
+
 removed handy crafting
+
 removed some creature mods
+
 lots of other shit, I mean it took me a month of solid work every day, I been a busy little bee, any way thanks for reading this, how you doing? you all good? make sure to drink enough water. 
 
 
