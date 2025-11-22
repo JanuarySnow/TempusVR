@@ -1,3 +1,14 @@
+1.21
+fixed some more invisible textures
+restored 3d castingfx
+added interactive activators vr
+fixed lots of little things, landscape seams, leftover bugs from the last version
+floating objects, banners, lanterns
+fixed crash in dawnfang cc
+simplified and improved PBR landscape textures so they didn't overlap with other overhauls
+fixed a bunch of crap I didn't even write them all down because im a lazy little shit
+
+
 1.2
 
 chose heather with skoglendi for denser coverage and splashes of color, and more performant than the previous grass for more density
