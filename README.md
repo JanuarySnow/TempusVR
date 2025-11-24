@@ -13,6 +13,7 @@
 
 >Tempus Maledictum VR requires ALL Anniversary Edition DLC for Skyrim, in addition to SkyrimVR, and both to be installed on Steam.
 
+> If you use a Valve Index refer to this controller bindings guide from the FUS modlist : https://github.com/Kvitekvist/FUS?tab=readme-ov-file#choose-controller-bindings
 
 >[!WARNING]
 >You must update Skyrim AE to the latest version (1.6.1170) on Steam to install this list.
